@@ -76,6 +76,8 @@
 		"editorWidget.background": "#ffe1af",
 		"editor.findMatchBackground": "#fffaef",
 		"editor.findMatchHighlightBackground": "#ffe1af",
+		"editorHoverWidget.background": "#fffae2",
+		"editorHoverWidget.border": "#c06a8e",
 		"input.foreground": "#677392",
 		"inputValidation.errorBackground": "#fffae3",
 		"inputValidation.errorBorder": "#e66a18",
@@ -83,6 +85,7 @@
 		"tab.activeBackground": "#fff",
 		"tab.activeForeground": "#677392",
 		"tab.inactiveBackground": "#edeef4",
+		"tab.inactiveForeground": "#677392",
 		"activityBar.background": "#edeef4",
 		"activityBar.foreground": "#677392",
 		"activityBarBadge.background": "#B7D064",
@@ -97,7 +100,8 @@
 		"list.activeSelectionBackground": "#677392",
 		"list.activeSelectionForeground": "#fff",
 		"list.focusBackground": "#ffe1a3",
-		"list.hoverBackground": "#fffaef"
+		"list.hoverBackground": "#fffaef",
+		"scrollbarSlider.background": ""
 	},
 	"tokenColors": [
 		{
