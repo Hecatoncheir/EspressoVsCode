@@ -86,6 +86,7 @@
 		"tab.activeForeground": "#c06a8e",
 		"tab.inactiveBackground": "#edeef4",
 		"tab.inactiveForeground": "#677392",
+		"tab.border": "#edeef4",
 		"activityBar.background": "#edeef4",
 		"activityBar.foreground": "#677392",
 		"activityBarBadge.background": "#B7D064",
