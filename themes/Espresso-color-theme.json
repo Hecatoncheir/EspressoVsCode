@@ -73,6 +73,7 @@
 		// "editor.findMatchHighlightBackground": "#fff",
 		// "editor.findRangeHighlightBackground": "#fff",
 		"editorLineNumber.foreground": "#677392",
+		"editor.lineHighlightBorder": "#fff",
 		"editorWidget.background": "#ffe1af",
 		"editor.findMatchBackground": "#fffaef",
 		"editor.findMatchHighlightBackground": "#ffe1af",
