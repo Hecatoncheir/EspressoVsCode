@@ -123,7 +123,7 @@
 			"name": "Comments",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#384887"
+				"foreground": "#B7D06c"
 			}
 		},
 		{
@@ -194,8 +194,8 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"fontStyle": "underline",
-				"foreground": "#ffeebb"
+				"fontStyle": "bold",
+				"foreground": "#c06a8e"
 			}
 		},
 		{
@@ -210,8 +210,9 @@
 			"name": "Function names",
 			"scope": "entity.name.function",
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#ddbb88"
+				"fontStyle": "bold",
+				"foreground": "#c06a8e",
+				"background": "#fffae2"
 			}
 		},
 		{
