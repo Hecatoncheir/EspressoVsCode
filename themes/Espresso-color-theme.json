@@ -317,6 +317,14 @@
 			}
 		},
 		{
+			"name": "Parameters",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#e66a18"
+			}
+		},
+		// -------------
+		{
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
@@ -434,6 +442,14 @@
 			"settings": {
 				"fontStyle": "normal",
 				"foreground": "#677392"
+			}
+		},
+		{
+			"scope": "variable.parameter.dart",
+			"settings": {
+				"fontStyle": "bold",
+				"background": "#fffae3",
+				"foreground": "#B7D069"
 			}
 		}
 	]
