@@ -125,6 +125,7 @@
 			"name": "Comments",
 			"scope": "comment",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#B7D06c"
 			}
 		},
@@ -237,8 +238,7 @@
 			"name": "Tag attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#ddbb88"
+				"foreground": "#e66a18"
 			}
 		},
 		{
@@ -371,6 +371,35 @@
 			"scope": "invalid",
 			"settings": {
 				"foreground": "#e66a11"
+			}
+		},
+		// HTML
+		{
+			"name": "< in html",
+			"scope": "punctuation.definition.tag.begin.html",
+			"settings": {
+				"foreground": "#c06a8e"
+			}
+		},
+		{
+			"name": "> in html",
+			"scope": "punctuation.definition.tag.end.html",
+			"settings": {
+				"foreground": "#c06a8e"
+			}
+		},
+		{
+			"name": "HTML attribute",
+			"scope": "entity.other.attribute-name.html",
+			"settings": {
+				"foreground": "#75a2d1"
+			}
+		},
+		{
+			"name": "HTML element name",
+			"scope": "entity.name.tag.other.html",
+			"settings": {
+				"foreground": "#e66a18"
 			}
 		}
 	]
