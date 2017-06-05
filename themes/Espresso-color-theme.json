@@ -65,7 +65,7 @@
 		"editorSuggestWidget.border": "#c06a8e",
 		"editorSuggestWidget.foreground": "#677392",
 		"editorCursor.foreground": "#B7D06c",
-		// "editor.lineHighlightBackground": "#fffae3",
+		"editor.lineHighlightBackground": "#fffae3",
 		// "editor.hoverHighlightBackground": "#fffae3",
 		// "editor.wordHighlightBackground": "#fffae3",
 		"editor.wordHighlightStrongBackground": "#c06a8e",
@@ -378,14 +378,14 @@
 			"name": "< in html",
 			"scope": "punctuation.definition.tag.begin.html",
 			"settings": {
-				"foreground": "#c06a8e"
+				"foreground": "#ba1a9f"
 			}
 		},
 		{
 			"name": "> in html",
 			"scope": "punctuation.definition.tag.end.html",
 			"settings": {
-				"foreground": "#c06a8e"
+				"foreground": "#ba1a9f"
 			}
 		},
 		{
@@ -399,7 +399,15 @@
 			"name": "HTML element name",
 			"scope": "entity.name.tag.other.html",
 			"settings": {
-				"foreground": "#e66a18"
+				// "foreground": "#db3516"
+				"foreground": "#ba1a9f"
+			}
+		},
+		{
+			"scope": "entity.name.tag.block.any.html",
+			"settings": {
+				// "foreground": "#db3518"
+				"foreground": "#ba1a9f"
 			}
 		}
 	]
