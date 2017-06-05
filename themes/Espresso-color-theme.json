@@ -98,7 +98,12 @@
 		"list.activeSelectionForeground": "#fff",
 		"list.focusBackground": "#ffe1a3",
 		"list.hoverBackground": "#fffaef",
-		"scrollbarSlider.background": ""
+		"scrollbarSlider.background": "#B7D06f",
+		"scrollbarSlider.activeBackground": "#c06a83",
+		"scrollbarSlider.hoverBackground": "#677392",
+		"scrollbar.shadow": "#fff",
+		"diffEditor.insertedTextBorder": "#B7D06f",
+		"diffEditor.removedTextBackground": "#efd1c9"
 	},
 	"tokenColors": [
 		{
