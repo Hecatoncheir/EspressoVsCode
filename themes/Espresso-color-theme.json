@@ -46,9 +46,11 @@
 		"peekViewEditor.background": "#fff",
 		"peekViewEditor.matchHighlightBackground": "#ffe1a2",
 		"peekViewResult.background": "#fff",
-		"peekViewResult.selectionBackground": "#fff",
 		"peekViewResult.fileForeground": "#c06a82",
 		"peekViewResult.lineForeground": "#677392",
+		"peekViewResult.matchHighlightBackground": "#ffe1a2",
+		"peekViewResult.selectionBackground": "#fffae2",
+		"peekViewResult.selectionForeground": "#e66a12",
 		// Input
 		"input.foreground": "#c06a8e",
 		"input.background": "#fff",
