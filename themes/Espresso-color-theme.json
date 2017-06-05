@@ -394,6 +394,20 @@
 				"foreground": "#B7D065"
 			}
 		},
+		{
+			"name": "CSS property values",
+			"scope": "support.constant.property-value.css",
+			"settings": {
+				"foreground": "#677399"
+			}
+		},
+		{
+			"name": "CSS element tag",
+			"scope": "entity.name.tag.custom.css",
+			"settings": {
+				"foreground": "#75a2d1"
+			}
+		},
 		// JSON
 		{
 			"name": "JSON tag",
