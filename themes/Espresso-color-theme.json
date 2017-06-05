@@ -51,6 +51,7 @@
 		"editor.findRangeHighlightBackground": "#c06a8e",
 		"editor.rangeHighlightBackground": "#ffe1af",
 		"editor.wordHighlightBackground": "#ffe1af",
+		"editorLink.activeForeground": "#c06a8e",
 		// PeekView
 		"peekView.border": "#B7D064",
 		"peekViewTitle.background": "#fffae2",
