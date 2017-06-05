@@ -149,14 +149,14 @@
 			"name": "Numbers",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#f280d0"
+				"foreground": "#ed3b60"
 			}
 		},
 		{
 			"name": "Built-in constants",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#f280d0"
+				"foreground": "#ed3b60"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#f280d0"
+				"foreground": "#ed3b60"
 			}
 		},
 		{
