@@ -38,14 +38,15 @@
 		"editorHoverWidget.border": "#c06a8e",
 		"editorGroup.border": "#c06a8e",
 		"editorGroup.background": "#fffae2",
-		// Peak
-		"peekViewTitle.background": "#ffe1a2",
-		"peekViewTitleLabel.foreground": "#677392",
+		// PeekView
+		"peekView.border": "#B7D064",
+		"peekViewTitle.background": "#fffae2",
+		"peekViewTitleLabel.foreground": "#c06a8f",
+		"peekViewTitleDescription.foreground": "#e66a12",
 		"peekViewEditor.background": "#fff",
-		"peekViewResult.background": "#fffae2",
 		"peekViewEditor.matchHighlightBackground": "#ffe1a2",
+		"peekViewResult.background": "#fff",
 		"peekViewResult.selectionBackground": "#fff",
-		"peekViewTitleDescription.foreground": "#677392",
 		"peekViewResult.fileForeground": "#c06a82",
 		"peekViewResult.lineForeground": "#677392",
 		// Input
@@ -75,9 +76,6 @@
 		"sideBar.background": "#edeef4",
 		"sideBarTitle.foreground": "#677392",
 		// "sideBarSectionHeader.background": "#edeef4",
-		// PeekView
-		"peekViewTitleLabel.foreground": "#fff",
-		"peekView.border": "#b7d064",
 		// Status bar
 		"statusBar.background": "#edeef4",
 		"statusBar.foreground": "#67739e",
