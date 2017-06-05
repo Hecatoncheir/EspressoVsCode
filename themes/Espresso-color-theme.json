@@ -66,12 +66,7 @@
 		"editorSuggestWidget.foreground": "#677392",
 		"editorCursor.foreground": "#B7D06c",
 		"editor.lineHighlightBackground": "#fffae3",
-		// "editor.hoverHighlightBackground": "#fffae3",
-		// "editor.wordHighlightBackground": "#fffae3",
 		"editor.wordHighlightStrongBackground": "#c06a8e",
-		// "editor.rangeHighlightBackground": "#fff",
-		// "editor.findMatchHighlightBackground": "#fff",
-		// "editor.findRangeHighlightBackground": "#fff",
 		"editorLineNumber.foreground": "#677392",
 		"editor.lineHighlightBorder": "#fff",
 		"editorWidget.background": "#ffe1af",
@@ -133,7 +128,16 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#22aa44"
+				"background": "#fffae3",
+				"foreground": "#d2461e"
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": "string.interpolated.single",
+			"settings": {
+				"background": "#fffae3",
+				"foreground": "#d2461e"
 			}
 		},
 		{
@@ -171,7 +175,7 @@
 			"name": "Keywords",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#225588"
+				"foreground": "#ed3b69"
 			}
 		},
 		{
@@ -404,10 +408,27 @@
 			}
 		},
 		{
+			"name": "HTML tag name",
 			"scope": "entity.name.tag.block.any.html",
 			"settings": {
 				// "foreground": "#db3518"
 				"foreground": "#ba1a9f"
+			}
+		},
+		// DART
+		{
+			"name": "Import Dart",
+			"scope": "keyword.other.import.dart",
+			"settings": {
+				"foreground": "#ed3b69"
+			}
+		},
+		{
+			"name": "Dart annotation @ and other",
+			"scope": "storage.type.annotation.dart",
+			"settings": {
+				"fontStyle": "normal",
+				"foreground": "#677392"
 			}
 		}
 	]
