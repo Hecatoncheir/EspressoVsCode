@@ -105,7 +105,10 @@
 		"scrollbarSlider.hoverBackground": "#677392",
 		"scrollbar.shadow": "#fff",
 		"diffEditor.insertedTextBorder": "#B7D06f",
-		"diffEditor.removedTextBackground": "#efd1c9"
+		"diffEditor.removedTextBackground": "#fffae9",
+		"inputValidation.warningBorder": "#d2461e",
+		"inputValidation.infoBackground": "#677392",
+		"diffEditor.removedTextBorder": "#d2461e"
 	},
 	"tokenColors": [
 		{
