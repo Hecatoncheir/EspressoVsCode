@@ -224,7 +224,7 @@
 			"name": "Function names",
 			"scope": "entity.name.function",
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "italic",
 				"foreground": "#c06a8e",
 				"background": "#fffae2"
 			}
@@ -419,7 +419,7 @@
 			"scope": "entity.name.tag.other.html",
 			"settings": {
 				// "foreground": "#db3516"
-				"foreground": "#ba1a9f"
+				"foreground": "#c06a8f"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"scope": "entity.name.tag.block.any.html",
 			"settings": {
 				// "foreground": "#db3518"
-				"foreground": "#ba1a9f"
+				"foreground": "#c06a8f"
 			}
 		},
 		// DART
@@ -449,7 +449,6 @@
 		{
 			"scope": "variable.parameter.dart",
 			"settings": {
-				"fontStyle": "bold",
 				"background": "#fffae3",
 				"foreground": "#B7D069"
 			}
