@@ -391,6 +391,21 @@
 				"foreground": "#ffe1af"
 			}
 		},
+		// GO
+		{
+			"name": "Go brackets",
+			"scope": "punctuation.other.bracket.curly.go",
+			"settings": {
+				"foreground": "#ed3b6B"
+			}
+		},
+		{
+			"name": "Go constants",
+			"scope": "constant.other.placeholder.go",
+			"settings": {
+				"foreground": "#BBDB9B"
+			}
+		},
 		// CSS
 		{
 			"name": "CSS class",
