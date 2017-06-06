@@ -2,6 +2,7 @@
 	"name": "Espresso",
 	"colors": {
 		"foreground": "#677392",
+		"focusBorder": "#c06a83",
 		// Title bar
 		"titleBar.activeBackground": "#edeef4",
 		"titleBar.activeForeground": "#c06a8e",
@@ -69,12 +70,12 @@
 		"input.foreground": "#c06a8e",
 		"input.background": "#fff",
 		"input.border": "#c06a8e",
+		"inputOption.activeBorder": "#c06a8e",
 		"inputValidation.errorBackground": "#fffae3",
 		"inputValidation.errorBorder": "#e66a18",
 		"inputValidation.warningBackground": "#e66a18",
 		"inputValidation.warningBorder": "#ffe1a2",
 		"inputValidation.infoBackground": "#677392",
-		"inputOption.activeBorder": "#c06a8e",
 		"inputValidation.infoBorder": "#c06a8e",
 		// Tab
 		"tab.activeBackground": "#fff",
