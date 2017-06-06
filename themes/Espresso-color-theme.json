@@ -6,8 +6,8 @@
 		// Title bar
 		"titleBar.activeBackground": "#edeef4",
 		"titleBar.activeForeground": "#c06a8e",
-		"titleBar.inactiveBackground": "#677392",
-		"titleBar.inactiveForeground": "#fffae3",
+		"titleBar.inactiveBackground": "#c06a8e",
+		"titleBar.inactiveForeground": "#edeef4",
 		// Notification
 		"notification.background": "#edeef4",
 		"notification.foreground": "#677392",
