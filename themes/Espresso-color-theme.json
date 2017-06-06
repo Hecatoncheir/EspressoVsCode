@@ -12,11 +12,11 @@
 		"notification.background": "#edeef4",
 		"notification.foreground": "#677392",
 		// Panel
-		"panel.border": "#677392",
-		"panel.background": "#edeef4",
-		"panelTitle.activeForeground": "#c06a8e",
+		"panel.border": "#c06a82",
+		"panel.background": "#fff",
 		"panelTitle.inactiveForeground": "#677392",
-		"panelTitle.activeBorder": "#c06a8e",
+		"panelTitle.activeForeground": "#ed3b6e",
+		"panelTitle.activeBorder": "#ed3b6e",
 		// Editor
 		"editorGroup.border": "#c06a8e",
 		"editorGroup.background": "#fffae2",
