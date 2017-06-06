@@ -359,7 +359,7 @@
 				"foreground": "#e66a18"
 			}
 		},
-		// -------------
+		// Markup
 		{
 			"name": "Markup Quote",
 			"scope": "markup.quote",
@@ -388,22 +388,7 @@
 			"name": "Markup Setext Header",
 			"scope": "markup.heading.setext",
 			"settings": {
-				"foreground": "#ffe1af"
-			}
-		},
-		// GO
-		{
-			"name": "Go brackets",
-			"scope": "punctuation.other.bracket.curly.go",
-			"settings": {
-				"foreground": "#ed3b6B"
-			}
-		},
-		{
-			"name": "Go constants",
-			"scope": "constant.other.placeholder.go",
-			"settings": {
-				"foreground": "#BBDB9B"
+				"foreground": "#ED6A5A"
 			}
 		},
 		// CSS
@@ -519,10 +504,25 @@
 			}
 		},
 		{
+			"name": "Variable in string",
 			"scope": "variable.parameter.dart",
 			"settings": {
-				"background": "#fffae3",
-				"foreground": "#B7D069"
+				"foreground": "#ed3b69"
+			}
+		},
+		// GO
+		{
+			"name": "Go brackets",
+			"scope": "punctuation.other.bracket.curly.go",
+			"settings": {
+				"foreground": "#ed3b6B"
+			}
+		},
+		{
+			"name": "Go constants",
+			"scope": "constant.other.placeholder.go",
+			"settings": {
+				"foreground": "#BBDB9B"
 			}
 		}
 	]
