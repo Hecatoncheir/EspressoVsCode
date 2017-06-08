@@ -36,7 +36,7 @@
     "bugs": {
         "url": "https://github.com/Rasarts/EspressoVsCode/issues"
     },
-    "icon": "logo.svg",
+    "icon": "logo.png",
     "galleryBanner": {
         "color": "#dde46c",
         "theme": "light"
