@@ -3,7 +3,7 @@
     "displayName": "Espresso theme",
     "description": "Espresso theme for Visual Studio Code",
     "version": "1.0.1",
-    "publisher": "Vitaliy Vostrikov",
+    "publisher": "vitaliy",
     "engines": {
         "vscode": "^1.12.0"
     },
