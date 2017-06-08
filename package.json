@@ -22,9 +22,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Espresso",
+                "label": "Espresso Light",
                 "uiTheme": "vs",
-                "path": "./themes/Espresso-color-theme.json"
+                "path": "./themes/Espresso-light-theme.json"
+            },
+            {
+                "label": "Espresso Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Espresso-dark-theme.json"
             }
         ]
     },
