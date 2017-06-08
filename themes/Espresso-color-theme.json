@@ -34,7 +34,7 @@
 		"editorSuggestWidget.background": "#fffae3",
 		"editorSuggestWidget.border": "#c06a8e",
 		"editorSuggestWidget.foreground": "#677392",
-		"editorCursor.foreground": "#B7D06c",
+		"editorCursor.foreground": "#b7d064",
 		"editor.lineHighlightBackground": "#fffae3",
 		"editor.lineHighlightBorder": "#fff",
 		"editor.wordHighlightStrongBackground": "#c06a8e",
@@ -98,7 +98,7 @@
 		"statusBar.foreground": "#67739e",
 		"statusBar.debuggingBackground": "#F4F1BB",
 		// "statusBar.noFolderBackground": "#BBDB9B",
-		"statusBar.noFolderBackground": "#fff",
+		"statusBar.noFolderBackground": "#dde46c",
 		"statusBarItem.hoverBackground": "#fffae2",
 		"statusBarItem.activeBackground": "#ffe1a3",
 		"statusBarItem.prominentHoverBackground": "#fffae2",
@@ -112,7 +112,7 @@
 		"list.hoverBackground": "#fffaef",
 		"list.dropBackground": "#fffae9",
 		// Scrollbar
-		"scrollbarSlider.background": "#B7D06f",
+		"scrollbarSlider.background": "#b7d06f",
 		"scrollbarSlider.activeBackground": "#c06a83",
 		"scrollbarSlider.hoverBackground": "#677392",
 		"scrollbar.shadow": "#edeef4",
@@ -130,9 +130,9 @@
 		"dropdown.foreground": "#677392",
 		"dropdown.border": "#c06a83",
 		// Button
-		"button.foreground": "#fff",
-		"button.background": "#B7D06f",
-		"button.hoverBackground": "#677392"
+		"button.foreground": "#677392",
+		"button.background": "#dde46c",
+		"button.hoverBackground": "#B7D064"
 	},
 	"tokenColors": [
 		{

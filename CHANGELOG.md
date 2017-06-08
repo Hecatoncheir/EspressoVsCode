@@ -1,4 +1,10 @@
 # Change Log
+## 1.0.2
+
+Fix button background, and noFolderBackground property of statusBar
+### Patch
+- Update Espresso-color-theme.json
+
 ## 1.0.1
 
 Prepare for publish
