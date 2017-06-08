@@ -1,14 +1,23 @@
 {
     "name": "espresso",
-    "displayName": "Espresso",
-    "description": "Espresso theme",
-    "version": "0.0.1",
-    "publisher": "Vitaliy",
+    "displayName": "Espresso theme",
+    "description": "Espresso theme for Visual Studio Code",
+    "version": "1.0.1",
+    "publisher": "Vitaliy Vostrikov",
     "engines": {
         "vscode": "^1.12.0"
     },
+    "maintainers": [
+        "Vostrikov Vitaliy <rasart.pro@gmail.com>"
+    ],
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "espresso",
+        "customization",
+        "color-theme"
     ],
     "contributes": {
         "themes": [
@@ -18,5 +27,18 @@
                 "path": "./themes/Espresso-color-theme.json"
             }
         ]
+    },
+    "homepage": "https://github.com/Rasarts/EspressoVsCode/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Rasarts/EspressoVsCode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Rasarts/EspressoVsCode/issues"
+    },
+    "icon": "logo.svg",
+    "galleryBanner": {
+        "color": "#dde46c",
+        "theme": "light"
     }
 }
