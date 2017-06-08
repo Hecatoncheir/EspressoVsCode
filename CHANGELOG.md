@@ -1,7 +1,15 @@
 # Change Log
-All notable changes to the "espresso" extension will be documented in this file.
+## 1.0.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Prepare for publish
+### Patch
+- Update package.json
+
+## 1.0.0
+
+Finalize colors for theme
+### Minor
+- Added bar colors
 
 ## [Unreleased]
 - Initial release
