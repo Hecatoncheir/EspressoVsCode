@@ -2,7 +2,11 @@
 	"name": "Espresso light",
 	"colors": {
 		"foreground": "#677392",
-		"focusBorder": "#c06a83",
+		"focusBorder": "#ed3b69",
+		"progressBar.background": "#b7d064",
+		"badge.background": "#dde46c",
+		"badge.foreground": "#677392",
+		"widget.shadow": "#373F44",
 		// Title bar
 		"titleBar.activeBackground": "#edeef4",
 		"titleBar.activeForeground": "#c06a8e",
@@ -53,6 +57,14 @@
 		"editor.rangeHighlightBackground": "#ffe1af",
 		"editor.wordHighlightBackground": "#ffe1af",
 		"editorLink.activeForeground": "#c06a8e",
+		"editorRuler.foreground": "#dde46c",
+		"editorCodeLens.foreground": "#dde46c",
+		"editorBracketMatch.background": "#dde46c",
+		"editorBracketMatch.border": "#3D2645",
+		// Welcome
+		"welcomePage.buttonBackground": "#dde46c",
+		"welcomePage.buttonHoverBackground": "#B7D064",
+		"walkThrough.embeddedEditorBackground": "#fffae2",
 		// PeekView
 		"peekView.border": "#B7D064",
 		"peekViewTitle.background": "#fffae2",
@@ -91,8 +103,8 @@
 		"activityBar.dropBackground": "#edeef4",
 		// Side bar
 		"sideBar.background": "#edeef4",
-		"sideBarTitle.foreground": "#677392",
-		// "sideBarSectionHeader.background": "#edeef4",
+		"sideBarTitle.foreground": "#832161",
+		"sideBarSectionHeader.foreground": "#3D2645",
 		// Status bar
 		"statusBar.background": "#edeef4",
 		"statusBar.foreground": "#67739e",
