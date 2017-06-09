@@ -7,6 +7,7 @@
 		"badge.background": "#dde46c",
 		"badge.foreground": "#677392",
 		"widget.shadow": "#C1C0C4",
+		"errorForeground": "#d2461e",
 		// Title bar
 		"titleBar.activeBackground": "#edeef4",
 		"titleBar.activeForeground": "#2C2E40",
@@ -104,8 +105,10 @@
 		// Side bar
 		"sideBar.background": "#edeef4",
 		"sideBarTitle.foreground": "#832161",
-		"sideBarSectionHeader.background": "#BAC8D8",
-		"sideBarSectionHeader.foreground": "#fff",
+		"sideBarSectionHeader.background": "#edeef4",
+		// "sideBarSectionHeader.background": "#D9D0DE",
+		// "sideBarSectionHeader.background": "#D9DAE0",
+		"sideBarSectionHeader.foreground": "#DA4167",
 		// Status bar
 		"statusBar.background": "#edeef4",
 		"statusBar.foreground": "#67739e",
@@ -128,7 +131,8 @@
 		"list.hoverForeground": "#DA4167",
 		"list.dropBackground": "#fffae9",
 		// Scrollbar
-		"scrollbarSlider.background": "#b7d06f",
+		// "scrollbarSlider.background": "rgba(183, 208, 111,0.4)",
+		"scrollbarSlider.background": "#B7D06f",
 		"scrollbarSlider.activeBackground": "#c06a83",
 		"scrollbarSlider.hoverBackground": "#677392",
 		"scrollbar.shadow": "#edeef4",
