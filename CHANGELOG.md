@@ -1,4 +1,10 @@
 # Change Log
+## 1.1.0
+
+New UI 
+### Minor
+- Added Dark UI
+
 ## 1.0.2
 
 Fix button background, and noFolderBackground property of statusBar
