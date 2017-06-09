@@ -6,7 +6,7 @@
 		"progressBar.background": "#b7d064",
 		"badge.background": "#dde46c",
 		"badge.foreground": "#677392",
-		"widget.shadow": "#373F44",
+		"widget.shadow": "#C1C0C4",
 		// Title bar
 		"titleBar.activeBackground": "#edeef4",
 		"titleBar.activeForeground": "#c06a8e",
