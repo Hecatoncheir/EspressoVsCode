@@ -27,7 +27,7 @@
                 "path": "./themes/Espresso-light-theme.json"
             },
             {
-                "label": "Espresso Dark",
+                "label": "Espresso Dark UI",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Espresso-dark-theme.json"
             }
