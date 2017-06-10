@@ -3,11 +3,12 @@
 	"colors": {
 		"foreground": "#677392",
 		"focusBorder": "#ed3b69",
-		"progressBar.background": "#b7d064",
-		"badge.background": "#dde46c",
-		"badge.foreground": "#677392",
+		"progressBar.background": "#2C2E40",
 		"widget.shadow": "#C1C0C4",
 		"errorForeground": "#d2461e",
+		// Badge
+		"badge.background": "#dde46c",
+		"badge.foreground": "#677392",
 		// Title bar
 		"titleBar.activeBackground": "#edeef4",
 		"titleBar.activeForeground": "#2C2E40",
@@ -148,7 +149,7 @@
 		// Dropdown
 		"dropdown.background": "#fff",
 		"dropdown.foreground": "#677392",
-		"dropdown.border": "#c06a83",
+		"dropdown.border": "#677392",
 		// Button
 		"button.foreground": "#677392",
 		"button.background": "#dde46c",
