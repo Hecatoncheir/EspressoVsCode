@@ -117,7 +117,7 @@
 		"list.focusBackground": "#10365D",
 		"list.hoverBackground": "#dde46c",
 		"list.hoverForeground": "#10365D",
-		"list.dropBackground": "#fffae9",
+		"list.dropBackground": "#dde46c",
 		// Scrollbar
 		"scrollbarSlider.background": "#dde46c",
 		"scrollbarSlider.activeBackground": "#B7D06f",
