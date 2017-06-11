@@ -4,6 +4,7 @@
 		"foreground": "#677392",
 		"focusBorder": "#D9EB52",
 		"widget.shadow": "#373F44",
+		"progressBar.background": "#D9EB52",
 		// Title bar
 		"titleBar.activeBackground": "#373F44",
 		"titleBar.activeForeground": "#D9EB52",
