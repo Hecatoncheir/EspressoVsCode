@@ -5,6 +5,9 @@
 		"focusBorder": "#D9EB52",
 		"widget.shadow": "#373F44",
 		"progressBar.background": "#D9EB52",
+		// Badge
+		"badge.background": "#dde46c",
+		"badge.foreground": "#373F4b",
 		// Title bar
 		"titleBar.activeBackground": "#373F4b",
 		"titleBar.activeForeground": "#D9EB52",
