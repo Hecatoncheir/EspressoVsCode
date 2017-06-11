@@ -136,6 +136,10 @@
 		"dropdown.background": "#373F4B",
 		"dropdown.foreground": "#fffae3",
 		"dropdown.border": "#edeef4",
+		// Welcome
+		"welcomePage.buttonBackground": "#dde46c",
+		"welcomePage.buttonHoverBackground": "#B7D064",
+		"walkThrough.embeddedEditorBackground": "#fffae2",
 		// Button
 		"button.foreground": "#677392",
 		"button.background": "#B7D064",
