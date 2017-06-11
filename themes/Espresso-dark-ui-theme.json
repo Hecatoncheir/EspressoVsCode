@@ -6,7 +6,7 @@
 		"widget.shadow": "#373F44",
 		"progressBar.background": "#D9EB52",
 		// Title bar
-		"titleBar.activeBackground": "#373F44",
+		"titleBar.activeBackground": "#373F4b",
 		"titleBar.activeForeground": "#D9EB52",
 		"titleBar.inactiveBackground": "#ed3b69",
 		"titleBar.inactiveForeground": "#fffae3",
@@ -99,7 +99,7 @@
 		"sideBarSectionHeader.foreground": "#fff",
 		// "sideBarSectionHeader.background": "#edeef4",
 		// Status bar
-		"statusBar.background": "#373F49",
+		"statusBar.background": "#373F4B",
 		"statusBar.foreground": "#fff",
 		"statusBar.debuggingBackground": "#B7D064",
 		// "statusBar.noFolderBackground": "#BBDB9B",
@@ -114,7 +114,7 @@
 		"list.inactiveSelectionBackground": "#fff",
 		"list.inactiveSelectionForeground": "#10365D",
 		"list.activeSelectionBackground": "#fff",
-		"list.activeSelectionForeground": "#c06a8e",
+		"list.activeSelectionForeground": "#B7D064",
 		"list.focusBackground": "#10365D",
 		"list.hoverBackground": "#dde46c",
 		"list.hoverForeground": "#10365D",
