@@ -1,4 +1,8 @@
 # Change Log
+## 1.2.2
+
+### Patch
+- Fix terminal foreground color for light UI
 ## 1.2.1
 
 ### Patch
