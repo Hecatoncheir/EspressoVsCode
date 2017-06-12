@@ -1,4 +1,9 @@
 # Change Log
+## 1.2.0
+
+Update for dark and light UI
+### Minor
+- Update UI
 ## 1.1.0
 
 New UI 
