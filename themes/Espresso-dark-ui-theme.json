@@ -1,7 +1,7 @@
 {
 	"name": "Espresso dark UI",
 	"colors": {
-		"foreground": "#677392",
+		"foreground": "#152844",
 		"focusBorder": "#D9EB52",
 		"widget.shadow": "#373F44",
 		"progressBar.background": "#D9EB52",
@@ -58,6 +58,10 @@
 		"editor.rangeHighlightBackground": "#ffe1af",
 		"editor.wordHighlightBackground": "#ffe1af",
 		"editorLink.activeForeground": "#c06a8e",
+		"editorRuler.foreground": "#dde46c",
+		"editorCodeLens.foreground": "#dde46c",
+		"editorBracketMatch.background": "#dde46c",
+		"editorBracketMatch.border": "#3D2645",
 		// PeekView
 		"peekView.border": "#B7D064",
 		"peekViewTitle.background": "#fffae2",
@@ -99,7 +103,7 @@
 		"sideBar.foreground": "#fff",
 		"sideBarTitle.foreground": "#dde46c",
 		"sideBarSectionHeader.background": "#061626",
-		"sideBarSectionHeader.foreground": "#fff",
+		"sideBarSectionHeader.foreground": "#dde46c",
 		// "sideBarSectionHeader.background": "#edeef4",
 		// Status bar
 		"statusBar.background": "#373F4B",
@@ -117,7 +121,7 @@
 		"list.inactiveSelectionBackground": "#fff",
 		"list.inactiveSelectionForeground": "#10365D",
 		"list.activeSelectionBackground": "#fff",
-		"list.activeSelectionForeground": "#B7D064",
+		"list.activeSelectionForeground": "#10365D",
 		"list.focusBackground": "#10365D",
 		"list.hoverBackground": "#dde46c",
 		"list.hoverForeground": "#10365D",
@@ -147,7 +151,10 @@
 		// Button
 		"button.foreground": "#677392",
 		"button.background": "#B7D064",
-		"button.hoverBackground": "#dde46c"
+		"button.hoverBackground": "#dde46c",
+		// Terminal
+		"terminal.foreground": "#152844",
+		"terminal.background": "#fff"
 	},
 	"tokenColors": [
 		{
