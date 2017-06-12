@@ -4,8 +4,10 @@
 
 > Light UI
 
-![light](https://raw.githubusercontent.com/Rasarts/EspressoVsCode/master/preview/preview_dart.jpeg)
+![welcome](https://raw.githubusercontent.com/Rasarts/EspressoVsCode/master/preview/preview_light_ui_welcome.png)
+
+![light](https://raw.githubusercontent.com/Rasarts/EspressoVsCode/master/preview/preview_light_ui.png)
 
 > Dark UI
 
-![dark](https://raw.githubusercontent.com/Rasarts/EspressoVsCode/master/preview/preview_dark_ui.png)
+![welcome](https://raw.githubusercontent.com/Rasarts/EspressoVsCode/master/preview/preview_dartk_ui_welcome.png)
