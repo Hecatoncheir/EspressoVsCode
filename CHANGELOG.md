@@ -1,4 +1,8 @@
 # Change Log
+## 1.3.2
+
+### Minor
+- Update dark ui suggest widget
 ## 1.2.2
 
 ### Patch
