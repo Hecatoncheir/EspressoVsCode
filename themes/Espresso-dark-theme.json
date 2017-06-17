@@ -17,11 +17,11 @@
 		"notification.background": "#373F44",
 		"notification.foreground": "#fffae3",
 		// Panel
-		"panel.border": "#c06a82",
-		"panel.background": "#fff",
-		"panelTitle.inactiveForeground": "#677392",
-		"panelTitle.activeForeground": "#ed3b6e",
-		"panelTitle.activeBorder": "#ed3b6e",
+		"panel.border": "#373F4b",
+		"panel.background": "#373F4b",
+		"panelTitle.inactiveForeground": "#F0F2DC",
+		"panelTitle.activeForeground": "#D9EB52",
+		"panelTitle.activeBorder": "#D9EB52",
 		// Editor
 		"editorGroup.border": "#c06a8e",
 		"editorGroup.background": "#fffae2",
