@@ -1,4 +1,8 @@
 # Change Log
+## 1.4.0
+
+### Minor
+- Added dark color theme
 ## 1.3.2
 
 ### Minor
