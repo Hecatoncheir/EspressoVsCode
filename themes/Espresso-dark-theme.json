@@ -3,7 +3,7 @@
 	"colors": {
 		"foreground": "#152844",
 		"focusBorder": "#D9EB52",
-		"widget.shadow": "#373F44",
+		"widget.shadow": "#272C35",
 		"progressBar.background": "#D9EB52",
 		// Badge
 		"badge.background": "#dde46c",
@@ -47,8 +47,8 @@
 		"editor.findMatchBackground": "#fffaef",
 		"editor.findMatchHighlightBackground": "#515E70",
 		"editorWidget.background": "#515E70",
-		"editorHoverWidget.background": "#fffae2",
-		"editorHoverWidget.border": "#c06a8e",
+		"editorHoverWidget.background": "#373F4b",
+		"editorHoverWidget.border": "#dde46c",
 		"editorMarkerNavigation.background": "#c06a8e",
 		"editorIndentGuide.background": "#515E70",
 		"editorMarkerNavigationWarning.background": "#c06a8e",
