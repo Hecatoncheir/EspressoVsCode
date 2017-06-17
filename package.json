@@ -31,6 +31,11 @@
                 "label": "Espresso Dark UI",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Espresso-dark-ui-theme.json"
+            },
+            {
+                "label": "Espresso Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Espresso-dark-theme.json"
             }
         ]
     },
