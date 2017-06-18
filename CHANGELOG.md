@@ -1,4 +1,8 @@
 # Change Log
+## 1.4.1
+
+### Patch
+- Update dark border and link colors
 ## 1.4.0
 
 ### Minor
