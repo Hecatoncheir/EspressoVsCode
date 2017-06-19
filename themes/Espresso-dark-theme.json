@@ -1,7 +1,7 @@
 {
 	"name": "Espresso dark UI",
 	"colors": {
-		"foreground": "#152844",
+		"foreground": "#fffae3",
 		"focusBorder": "#D9EB52",
 		"widget.shadow": "#272C35",
 		"progressBar.background": "#D9EB52",
@@ -87,11 +87,11 @@
 		"inputValidation.infoBackground": "#677392",
 		"inputValidation.infoBorder": "#c06a8e",
 		// Tab
-		"tab.activeBackground": "##2A2A2F",
+		"tab.activeBackground": "##373F4B",
 		"tab.activeForeground": "#D9EB52",
-		"tab.inactiveBackground": "#2A2A2F",
+		"tab.inactiveBackground": "#2E353F",
 		"tab.inactiveForeground": "#fff",
-		"tab.border": "#2A2A2F",
+		"tab.border": "#2E353F",
 		// Activity bar
 		"activityBar.background": "#373F4B",
 		"activityBar.foreground": "#edeef0",
@@ -102,7 +102,7 @@
 		"sideBar.background": "#373F4B",
 		"sideBar.foreground": "#fff",
 		"sideBarTitle.foreground": "#dde46c",
-		"sideBarSectionHeader.background": "#061626",
+		"sideBarSectionHeader.background": "#2E353F",
 		"sideBarSectionHeader.foreground": "#dde46c",
 		// "sideBarSectionHeader.background": "#edeef4",
 		// Status bar
@@ -118,9 +118,9 @@
 		// List
 		"list.highlightForeground": "#dde46c",
 		"list.focusForeground": "#B7D06f",
-		"list.inactiveSelectionBackground": "#2A2A2F",
+		"list.inactiveSelectionBackground": "#272C35",
 		"list.inactiveSelectionForeground": "#dde46c",
-		"list.activeSelectionBackground": "#2A2A2F",
+		"list.activeSelectionBackground": "#272C35",
 		"list.activeSelectionForeground": "#dde46c",
 		"list.focusBackground": "#10365D",
 		"list.hoverBackground": "#dde46c",
@@ -153,8 +153,8 @@
 		"button.background": "#B7D064",
 		"button.hoverBackground": "#dde46c",
 		// Terminal
-		"terminal.foreground": "#152844",
-		"terminal.background": "#fff"
+		"terminal.foreground": "#fffae2",
+		"terminal.background": "#373F4b"
 	},
 	"tokenColors": [
 		{
