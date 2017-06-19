@@ -133,9 +133,9 @@
 		"scrollbar.shadow": "#10365D",
 		// Diff
 		"diffEditor.insertedTextBorder": "#B7D06f",
-		"diffEditor.removedTextBackground": "#edeef9",
+		"diffEditor.removedTextBackground": "#103659",
 		"diffEditor.removedTextBorder": "#d2461e",
-		"diffEditor.insertedTextBackground": "#fffae9",
+		"diffEditor.insertedTextBackground": "#373F49",
 		// Debug
 		"debugToolBar.background": "#152844",
 		"debugExceptionWidget.background": "#ffe1a3",
