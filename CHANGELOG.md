@@ -1,4 +1,8 @@
 # Change Log
+## 1.4.3
+
+### Patch
+- Fix diff colors
 ## 1.4.2
 
 ### Patch
