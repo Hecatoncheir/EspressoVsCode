@@ -1,7 +1,8 @@
 {
 	"name": "Espresso light",
 	"colors": {
-		"foreground": "#677392",
+		"foreground": "#225588",
+		// "foreground": "#677392",
 		"focusBorder": "#ed3b69",
 		"progressBar.background": "#2C2E40",
 		"widget.shadow": "#C1C0C4",
