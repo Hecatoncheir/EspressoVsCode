@@ -1,4 +1,10 @@
 # Change Log
+## 1.4.4
+
+### Patch
+- Fix colors for light and dark theme
+- Change color for cursor
+
 ## 1.4.3
 
 ### Patch
