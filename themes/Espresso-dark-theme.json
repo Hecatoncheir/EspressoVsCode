@@ -60,7 +60,7 @@
 		"editorLink.activeForeground": "#BBDB9B",
 		"editorRuler.foreground": "#dde46c",
 		"editorCodeLens.foreground": "#dde46c",
-		"editorBracketMatch.background": "#dde46c",
+		"editorBracketMatch.background": "#ed3b60",
 		"editorBracketMatch.border": "#3D264c",
 		// PeekView
 		"peekView.border": "#373F4b",
