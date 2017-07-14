@@ -1,4 +1,9 @@
 # Change Log
+## 1.4.5
+
+### Patch
+- Change functions color for dark theme
+
 ## 1.4.4
 
 ### Patch
