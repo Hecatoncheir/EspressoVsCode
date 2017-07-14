@@ -60,7 +60,7 @@
 		"editorLink.activeForeground": "#BBDB9B",
 		"editorRuler.foreground": "#dde46c",
 		"editorCodeLens.foreground": "#dde46c",
-		"editorBracketMatch.background": "#ed3b60",
+		"editorBracketMatch.background": "#46A417",
 		"editorBracketMatch.border": "#3D264c",
 		// PeekView
 		"peekView.border": "#373F4b",
@@ -110,7 +110,7 @@
 		"statusBar.foreground": "#fff",
 		"statusBar.debuggingBackground": "#B7D064",
 		// "statusBar.noFolderBackground": "#BBDB9B",
-		"statusBar.noFolderBackground": "#061626",
+		"statusBar.noFolderBackground": "#373F4B",
 		"statusBarItem.hoverBackground": "#061626",
 		"statusBarItem.activeBackground": "#dde46c",
 		"statusBarItem.prominentHoverBackground": "#B7D06f",
@@ -148,7 +148,7 @@
 		// Welcome
 		"welcomePage.buttonBackground": "#515e70",
 		"welcomePage.buttonHoverBackground": "#10365D",
-		"walkThrough.embeddedEditorBackground": "#fffae2",
+		"walkThrough.embeddedEditorBackground": "#373f4b",
 		// Button
 		"button.foreground": "#677392",
 		"button.background": "#B7D064",
@@ -274,7 +274,8 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCC00",
+				// "foreground": "#FFCC00",
+				"foreground": "#FFCE80",
 				"background": "#fffae2"
 			}
 		},
@@ -548,6 +549,13 @@
 		{
 			"name": "Variable in string",
 			"scope": "variable.parameter.dart",
+			"settings": {
+				"foreground": "#ed3b69"
+			}
+		},
+		{
+			"name": "Dart modifier",
+			"scope": "storage.modifier.dart",
 			"settings": {
 				"foreground": "#ed3b69"
 			}
