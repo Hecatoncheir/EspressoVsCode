@@ -1,4 +1,10 @@
 # Change Log
+## 1.5.0
+
+### Patch
+- Update color for dark theme
+- Change bracket mutch color
+
 ## 1.4.5
 
 ### Patch
