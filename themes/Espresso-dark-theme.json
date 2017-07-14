@@ -50,7 +50,7 @@
 		"editorHoverWidget.background": "#373F4b",
 		"editorHoverWidget.border": "#dde46c",
 		"editorMarkerNavigation.background": "#c06a8e",
-		"editorIndentGuide.background": "#515E70",
+		"editorIndentGuide.background": "#373F4b",
 		"editorMarkerNavigationWarning.background": "#c06a8e",
 		"editorMarkerNavigationError.background": "#e66a12",
 		"editor.hoverHighlightBackground": "#515E70",
@@ -131,7 +131,7 @@
 		"scrollbarSlider.background": "#373F4B",
 		"scrollbarSlider.activeBackground": "#515e70",
 		"scrollbarSlider.hoverBackground": "#dde46c",
-		"scrollbar.shadow": "#10365D",
+		"scrollbar.shadow": "#061626",
 		// Diff
 		"diffEditor.insertedTextBorder": "#B7D06f",
 		"diffEditor.removedTextBackground": "#103659",
