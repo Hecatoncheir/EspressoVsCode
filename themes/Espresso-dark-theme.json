@@ -128,8 +128,8 @@
 		"list.dropBackground": "#dde46c",
 		// Scrollbar
 		// "scrollbarSlider.background": "rgba(221, 228, 108, 0.5)",
-		"scrollbarSlider.background": "#373F4B",
-		"scrollbarSlider.activeBackground": "#515e70",
+		"scrollbarSlider.background": "#515e70",
+		"scrollbarSlider.activeBackground": "#ffe1a3",
 		"scrollbarSlider.hoverBackground": "#dde46c",
 		"scrollbar.shadow": "#061626",
 		// Diff
@@ -542,7 +542,7 @@
 			"scope": "storage.type.annotation.dart",
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#677392"
+				"foreground": "#ffe1a2"
 			}
 		},
 		{
