@@ -44,9 +44,9 @@
 		"editor.lineHighlightBorder": "#373F4b",
 		"editor.wordHighlightStrongBackground": "#c06a8e",
 		// "editorLineNumber.foreground": "#FAC370",
-		// "editorLineNumer.foreground": "rgba(250,195,112, 0.3)"
-		"editorLineNumber.foreground": "#C5A585",
-		// "editorLineNumber.foreground": "#C4A07B",
+		// "editorLineNumber.foreground": "#C5A585",
+		// "editorLineNumber.foreground": "#c6d8d3",
+		"editorLineNumber.foreground": "#9da3a4",
 		"editor.findMatchBackground": "#373F4b",
 		"editor.findMatchHighlightBackground": "#515E70",
 		"editorWidget.background": "#515E70",
