@@ -1,4 +1,9 @@
 # Change Log
+## 1.5.2
+
+### Patch
+- Update line numers color for dark theme
+
 ## 1.5.1
 
 ### Patch
