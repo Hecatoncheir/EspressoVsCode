@@ -1,4 +1,9 @@
 # Change Log
+## 1.5.3
+
+### Patch
+- Fix peek view for dark theme
+
 ## 1.5.2
 
 ### Patch
