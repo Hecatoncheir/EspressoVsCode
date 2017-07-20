@@ -1,4 +1,9 @@
 # Change Log
+## 1.5.4
+
+### Patch
+- Update scroll color for light ui
+
 ## 1.5.3
 
 ### Patch
