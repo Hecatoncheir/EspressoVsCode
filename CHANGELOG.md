@@ -1,4 +1,9 @@
 # Change Log
+## 1.5.5
+
+### Patch
+- Fix select highlight background color
+
 ## 1.5.4
 
 ### Patch
