@@ -44,7 +44,7 @@
 		"editorCursor.foreground": "#b7d064",
 		"editor.lineHighlightBackground": "#fffae3",
 		"editor.lineHighlightBorder": "#fff",
-		"editor.wordHighlightStrongBackground": "#c06a8e",
+		"editor.wordHighlightStrongBackground": "#ffe1af",
 		"editorLineNumber.foreground": "#677392",
 		"editor.findMatchBackground": "#fffaef",
 		"editor.findMatchHighlightBackground": "#ffe1af",
