@@ -1,4 +1,10 @@
 # Change Log
+## 1.6.0
+
+### Fix
+- Fix tab background of dark ui.
+- Update colors on suggestion window of light ui.
+
 ## 1.5.5
 
 ### Patch
