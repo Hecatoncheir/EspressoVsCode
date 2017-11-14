@@ -161,7 +161,7 @@
 		"terminal.ansiBrightGreen": "#dde46c",
 		"terminal.ansiGreen": "#B7D064",
 		"terminal.ansiBrightRed": "#DA4167",
-		"terminal.ansiRed": "#832161"
+		"terminal.ansiRed": "#d2461e"
 	},
 	"tokenColors": [
 		{
