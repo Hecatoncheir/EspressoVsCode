@@ -37,7 +37,7 @@
 		"editor.selectionHighlightBackground": "#ffe1af",
 		"editor.inactiveSelectionBackground": "#ffe1af",
 		"editorSuggestWidget.highlightForeground": "#c06a8e",
-		"editorSuggestWidget.selectedBackground": "#ffe5ba",
+		"editorSuggestWidget.selectedBackground": "#ffe1af",
 		"editorSuggestWidget.background": "#fffae3",
 		"editorSuggestWidget.border": "#c06a8e",
 		"editorSuggestWidget.foreground": "#677392",
