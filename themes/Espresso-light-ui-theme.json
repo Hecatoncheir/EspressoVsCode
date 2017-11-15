@@ -153,7 +153,14 @@
 		// Button
 		"button.foreground": "#677392",
 		"button.background": "#dde46c",
-		"button.hoverBackground": "#B7D064"
+		"button.hoverBackground": "#B7D064",
+		// Terminal
+		"terminal.foreground": "#152844",
+		"terminal.background": "#fff",
+		"terminal.ansiBrightGreen": "#dde46c",
+		"terminal.ansiGreen": "#B7D064",
+		"terminal.ansiBrightRed": "#DA4167",
+		"terminal.ansiRed": "#d2461e"
 	},
 	"tokenColors": [
 		{
