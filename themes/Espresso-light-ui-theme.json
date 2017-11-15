@@ -64,6 +64,10 @@
 		"editorCodeLens.foreground": "#dde46c",
 		"editorBracketMatch.background": "#dde46c",
 		"editorBracketMatch.border": "#3D2645",
+		"editorGutter.background": "#fff",
+		"editorGutter.modifiedBackground": "#677392",
+		"editorGutter.addedBackground": "#b7d064",
+		"editorGutter.deletedBackground": "#c06a8e",
 		// Welcome
 		"welcomePage.buttonBackground": "#dde46c",
 		"welcomePage.buttonHoverBackground": "#B7D064",
