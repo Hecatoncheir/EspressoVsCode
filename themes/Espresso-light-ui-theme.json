@@ -137,8 +137,7 @@
 		"list.hoverForeground": "#DA4167",
 		"list.dropBackground": "#fffae9",
 		// Scrollbar
-		// "scrollbarSlider.background": "rgba(183, 208, 111,0.4)",
-		"scrollbarSlider.background": "#B7D06f",
+		"scrollbarSlider.background": "#B7D06f99",
 		"scrollbarSlider.activeBackground": "#b7d06f",
 		"scrollbarSlider.hoverBackground": "#677392",
 		"scrollbar.shadow": "#edeef4",
