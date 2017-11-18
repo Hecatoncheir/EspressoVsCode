@@ -1,7 +1,7 @@
 {
 	"name": "Espresso dark UI",
 	"colors": {
-		"foreground": "#152844",
+		"foreground": "#c3c6a3",
 		"focusBorder": "#D9EB52",
 		"widget.shadow": "#373F44",
 		"progressBar.background": "#D9EB52",
@@ -17,11 +17,11 @@
 		"notification.background": "#373F44",
 		"notification.foreground": "#fffae3",
 		// Panel
-		"panel.border": "#c06a82",
-		"panel.background": "#fff",
-		"panelTitle.inactiveForeground": "#677392",
-		"panelTitle.activeForeground": "#ed3b6e",
-		"panelTitle.activeBorder": "#ed3b6e",
+		"panel.border": "#373F4b",
+		"panel.background": "#373F4b",
+		"panelTitle.inactiveForeground": "#F0F2DC",
+		"panelTitle.activeForeground": "#D9EB52",
+		"panelTitle.activeBorder": "#D9EB52",
 		// Editor
 		"editorGroup.border": "#c06a8e",
 		"editorGroup.background": "#fffae2",
@@ -62,6 +62,10 @@
 		"editorCodeLens.foreground": "#dde46c",
 		"editorBracketMatch.background": "#dde46c",
 		"editorBracketMatch.border": "#3D264c",
+		"editorGutter.background": "#fff",
+		"editorGutter.modifiedBackground": "#677392",
+		"editorGutter.addedBackground": "#b7d064",
+		"editorGutter.deletedBackground": "#c06a8e",
 		// PeekView
 		"peekView.border": "#B7D064",
 		"peekViewTitle.background": "#fffae2",
@@ -127,7 +131,7 @@
 		"list.hoverForeground": "#10365D",
 		"list.dropBackground": "#dde46c",
 		// Scrollbar
-		"scrollbarSlider.background": "#dde46c",
+		"scrollbarSlider.background": "#dde46c99",
 		"scrollbarSlider.activeBackground": "#B7D06f",
 		"scrollbarSlider.hoverBackground": "#677392",
 		"scrollbar.shadow": "#10365D",
@@ -145,16 +149,20 @@
 		"dropdown.foreground": "#fffae3",
 		"dropdown.border": "#edeef4",
 		// Welcome
-		"welcomePage.buttonBackground": "#dde46c",
-		"welcomePage.buttonHoverBackground": "#B7D064",
-		"walkThrough.embeddedEditorBackground": "#fffae2",
+		"welcomePage.buttonBackground": "#515e70",
+		"welcomePage.buttonHoverBackground": "#10365D",
+		"walkThrough.embeddedEditorBackground": "#373f4b",
 		// Button
 		"button.foreground": "#677392",
 		"button.background": "#B7D064",
 		"button.hoverBackground": "#dde46c",
 		// Terminal
-		"terminal.foreground": "#152844",
-		"terminal.background": "#fff"
+		"terminal.foreground": "#fffae2",
+		"terminal.background": "#373F4b",
+		"terminal.ansiBrightGreen": "#dde46c",
+		"terminal.ansiGreen": "#B7D064",
+		"terminal.ansiBrightRed": "#ed3b69",
+		"terminal.ansiRed": "#F16950"
 	},
 	"tokenColors": [
 		{
