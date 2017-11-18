@@ -64,6 +64,10 @@
 		"editorCodeLens.foreground": "#dde46c",
 		"editorBracketMatch.background": "#dde46c",
 		"editorBracketMatch.border": "#3D2645",
+		"editorGutter.background": "#fff",
+		"editorGutter.modifiedBackground": "#677392",
+		"editorGutter.addedBackground": "#b7d064",
+		"editorGutter.deletedBackground": "#c06a8e",
 		// Welcome
 		"welcomePage.buttonBackground": "#dde46c",
 		"welcomePage.buttonHoverBackground": "#B7D064",
@@ -133,8 +137,7 @@
 		"list.hoverForeground": "#DA4167",
 		"list.dropBackground": "#fffae9",
 		// Scrollbar
-		// "scrollbarSlider.background": "rgba(183, 208, 111,0.4)",
-		"scrollbarSlider.background": "#B7D06f",
+		"scrollbarSlider.background": "#B7D06f99",
 		"scrollbarSlider.activeBackground": "#b7d06f",
 		"scrollbarSlider.hoverBackground": "#677392",
 		"scrollbar.shadow": "#edeef4",
