@@ -18,6 +18,15 @@
 		// Notification
 		"notification.background": "#edeef4",
 		"notification.foreground": "#677392",
+		"notification.buttonBackground": "#B7D064",
+		"notification.buttonHoverBackground": "#dde46c",
+		"notification.buttonForeground": "#2C2E40",
+		"notification.infoBackground": "#ffe1a2",
+		"notification.infoForeground": "#2C2E40",
+		"notification.warningBackground": "#ffe1a2",
+		"notification.warningForeground": "#ed3b6e",
+		"notification.errorBackground": "#ed3b6e",
+		"notification.errorForeground": "#2C2E40",
 		// Panel
 		"panel.border": "#c06a82",
 		"panel.background": "#fff",
