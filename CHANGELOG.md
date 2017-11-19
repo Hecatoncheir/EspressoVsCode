@@ -1,4 +1,9 @@
 # Change Log
+## 1.6.1
+
+### Update
+- Update notification colors
+
 ## 1.6.0
 
 ### Fix
