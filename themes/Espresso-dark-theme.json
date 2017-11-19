@@ -16,6 +16,15 @@
 		// Notification
 		"notification.background": "#373F44",
 		"notification.foreground": "#fffae3",
+		"notification.buttonBackground": "#B7D064",
+		"notification.buttonHoverBackground": "#dde46c",
+		"notification.buttonForeground": "#2C2E40",
+		"notification.infoBackground": "#ffe1a2",
+		"notification.infoForeground": "#2C2E40",
+		"notification.warningBackground": "#ffe1a2",
+		"notification.warningForeground": "#ed3b6e",
+		"notification.errorBackground": "#ed3b6e",
+		"notification.errorForeground": "#2C2E40",
 		// Panel
 		"panel.border": "#373F4b",
 		"panel.background": "#373F4b",
@@ -62,10 +71,6 @@
 		"editorCodeLens.foreground": "#dde46c",
 		"editorBracketMatch.background": "#D34E24",
 		"editorBracketMatch.border": "#ffe1a2",
-		"editorGutter.background": "#272C35",
-		"editorGutter.modifiedBackground": "#ffe1a3",
-		"editorGutter.addedBackground": "#b7d064",
-		"editorGutter.deletedBackground": "#DA4167",
 		// PeekView
 		"peekView.border": "#373F4b",
 		"peekViewTitle.background": "#373F4b",
@@ -131,7 +136,8 @@
 		"list.hoverForeground": "#10365D",
 		"list.dropBackground": "#dde46c",
 		// Scrollbar
-		"scrollbarSlider.background": "#515e7099",
+		// "scrollbarSlider.background": "rgba(221, 228, 108, 0.5)",
+		"scrollbarSlider.background": "#515e70",
 		"scrollbarSlider.activeBackground": "#ffe1a3",
 		"scrollbarSlider.hoverBackground": "#dde46c",
 		"scrollbar.shadow": "#061626",
@@ -158,11 +164,7 @@
 		"button.hoverBackground": "#dde46c",
 		// Terminal
 		"terminal.foreground": "#fffae2",
-		"terminal.background": "#373F4b",
-		"terminal.ansiBrightGreen": "#dde46c",
-		"terminal.ansiGreen": "#B7D064",
-		"terminal.ansiBrightRed": "#ed3b69",
-		"terminal.ansiRed": "#F16950"
+		"terminal.background": "#373F4b"
 	},
 	"tokenColors": [
 		{
