@@ -1,4 +1,9 @@
 # Change Log
+## 1.6.2
+
+### Update
+- Update gutter & terminal collors for dark theme
+
 ## 1.6.1
 
 ### Update
