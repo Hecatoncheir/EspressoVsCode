@@ -71,6 +71,10 @@
 		"editorCodeLens.foreground": "#dde46c",
 		"editorBracketMatch.background": "#D34E24",
 		"editorBracketMatch.border": "#ffe1a2",
+		"editorGutter.background": "#272C35",
+		"editorGutter.modifiedBackground": "#ffe1a3",
+		"editorGutter.addedBackground": "#b7d064",
+		"editorGutter.deletedBackground": "#DA4167",
 		// PeekView
 		"peekView.border": "#373F4b",
 		"peekViewTitle.background": "#373F4b",
