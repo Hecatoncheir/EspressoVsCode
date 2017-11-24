@@ -444,7 +444,7 @@
 			"name": "CSS ID",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"foreground": "#0D9C8F"
+				"foreground": "#ed3b6F"
 			}
 		},
 		{
