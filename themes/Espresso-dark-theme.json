@@ -547,6 +547,20 @@
 				"foreground": "#FFCE80"
 			}
 		},
+		{
+			"name": "HTML meta",
+			"scope": "meta.tag.inline.any.html",
+			"settings": {
+				"foreground": "#ffe1a2"
+			}
+		},
+		{
+			"name": "HTML meta",
+			"scope": "meta.tag.other.html",
+			"settings": {
+				"foreground": "#ffe1a2"
+			}
+		},
 		// DART
 		{
 			"name": "Import Dart",
