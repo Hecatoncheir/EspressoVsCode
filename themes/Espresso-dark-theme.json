@@ -100,7 +100,7 @@
 		"inputValidation.infoBackground": "#677392",
 		"inputValidation.infoBorder": "#c06a8e",
 		// Tab
-		"tab.activeBackground": "#373F4B",
+		"tab.activeBackground": "#272C35",
 		"tab.activeForeground": "#D9EB52",
 		"tab.inactiveBackground": "#2E353F",
 		"tab.inactiveForeground": "#fff",
@@ -444,7 +444,7 @@
 			"name": "CSS ID",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"foreground": "#0D9C8F"
+				"foreground": "#ed3b6F"
 			}
 		},
 		{
@@ -547,6 +547,20 @@
 				"foreground": "#FFCE80"
 			}
 		},
+		{
+			"name": "HTML meta",
+			"scope": "meta.tag.inline.any.html",
+			"settings": {
+				"foreground": "#ffe1a2"
+			}
+		},
+		{
+			"name": "HTML meta",
+			"scope": "meta.tag.other.html",
+			"settings": {
+				"foreground": "#ffe1a2"
+			}
+		},
 		// DART
 		{
 			"name": "Import Dart",
@@ -575,6 +589,20 @@
 			"scope": "storage.modifier.dart",
 			"settings": {
 				"foreground": "#ed3b69"
+			}
+		},
+		{
+			"name": "Dart types names",
+			"scope": "storage.type.primitive.dart",
+			"settings": {
+				"foreground": "#ed3b69"
+			}
+		},
+		{
+			"name": "Dart classes names",
+			"scope": "support.class.dart",
+			"settings": {
+				"foreground": "#FFCE80"
 			}
 		},
 		// GO
