@@ -100,7 +100,7 @@
 		"inputValidation.infoBackground": "#677392",
 		"inputValidation.infoBorder": "#c06a8e",
 		// Tab
-		"tab.activeBackground": "#373F4B",
+		"tab.activeBackground": "#272C35",
 		"tab.activeForeground": "#D9EB52",
 		"tab.inactiveBackground": "#2E353F",
 		"tab.inactiveForeground": "#fff",
