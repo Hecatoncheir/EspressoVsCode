@@ -591,6 +591,20 @@
 				"foreground": "#ed3b69"
 			}
 		},
+		{
+			"name": "Dart types names",
+			"scope": "storage.type.primitive.dart",
+			"settings": {
+				"foreground": "#ed3b69"
+			}
+		},
+		{
+			"name": "Dart classes names",
+			"scope": "support.class.dart",
+			"settings": {
+				"foreground": "#FFCE80"
+			}
+		},
 		// GO
 		{
 			"name": "Go brackets",
