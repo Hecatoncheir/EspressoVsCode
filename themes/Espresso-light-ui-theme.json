@@ -520,6 +520,20 @@
 				"foreground": "#c06a8f"
 			}
 		},
+		{
+			"name": "HTML meta",
+			"scope": "meta.tag.inline.any.html",
+			"settings": {
+				"foreground": "#ed3b69"
+			}
+		},
+		{
+			"name": "HTML meta",
+			"scope": "meta.tag.other.html",
+			"settings": {
+				"foreground": "#225588"
+			}
+		},
 		// DART
 		{
 			"name": "Import Dart",
@@ -541,6 +555,24 @@
 			"scope": "variable.parameter.dart",
 			"settings": {
 				"foreground": "#ed3b69"
+			}
+		},
+		{
+			"name": "Dart types names",
+			"scope": "storage.type.primitive.dart",
+			"settings": {
+				"foreground": "#ed3b69"
+			}
+		},
+		{
+			"name": "Dart classes names",
+			"scope": "support.class.dart",
+			"settings": {
+				// "foreground": "#677392",
+				// "foreground": "#225588",
+				// "foreground": "#c06a8f",
+				// "foreground": "#ed3b69",
+				// "fontStyle": "bold italic"
 			}
 		},
 		// GO
