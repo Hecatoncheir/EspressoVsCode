@@ -1,4 +1,9 @@
 # Change Log
+## 1.6.7
+
+### Update
+- Update foreground editor colo for dark theme
+
 ## 1.6.6
 
 ### Fix
