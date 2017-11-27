@@ -1,4 +1,9 @@
 # Change Log
+## 1.6.5
+
+### Update
+- Update colors for dark and light themes
+
 ## 1.6.4
 
 ### Update
