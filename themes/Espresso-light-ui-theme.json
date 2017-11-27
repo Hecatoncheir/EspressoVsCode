@@ -606,6 +606,13 @@
 			"settings": {
 				"foreground": "#BBDB9B"
 			}
+		},
+		{
+			"name": "Go source",
+			"scope": "source.go",
+			"settings": {
+				"foreground": "#225588"
+			}
 		}
 	]
 }
