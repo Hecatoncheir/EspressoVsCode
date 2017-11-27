@@ -1,4 +1,9 @@
 # Change Log
+## 1.6.6
+
+### Fix
+- Fix light background color
+
 ## 1.6.5
 
 ### Update
