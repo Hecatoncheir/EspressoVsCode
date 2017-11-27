@@ -584,6 +584,14 @@
 				// "fontStyle": "bold italic"
 			}
 		},
+		{
+			"name": "Dart source",
+			"scope": "source.dart",
+			"settings": {
+				// "foreground": "#677392ff"
+				"foreground": "#225588"
+			}
+		},
 		// GO
 		{
 			"name": "Go brackets",
