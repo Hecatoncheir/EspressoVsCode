@@ -37,7 +37,7 @@
 		"editorGroupHeader.noTabsBackground": "#373F44",
 		"editorGroupHeader.tabsBackground": "#373F48",
 		// "editorGroup.dropBackground": "#fff",
-		"editor.foreground": "#fff",
+		"editor.foreground": "#fffae3",
 		"editor.background": "#272C35",
 		"editorWhitespace.foreground": "#373F48",
 		"editor.selectionBackground": "#373F4b",
