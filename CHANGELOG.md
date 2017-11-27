@@ -1,8 +1,14 @@
 # Change Log
+## 1.6.4
+
+### Update
+- Update list colors for light theme
+- Update foreground editor colo for dark theme
+
 ## 1.6.3
 
 ### Update
-- Update collors for dark and light themes
+- Update colors for dark and light themes
 
 ## 1.6.2
 
