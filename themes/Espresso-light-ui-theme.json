@@ -135,14 +135,14 @@
 		"statusBarItem.prominentHoverBackground": "#fffae2",
 		"statusBarItem.prominentBackground": "#fff",
 		// List
-		"list.highlightForeground": "#DA4167",
-		"list.focusForeground": "#832161",
+		"list.highlightForeground": "#832161",
+		"list.focusForeground": "#DA4167",
 		"list.inactiveSelectionBackground": "#fff",
 		"list.inactiveSelectionForeground": "#832161",
 		"list.activeSelectionBackground": "#fff",
 		"list.activeSelectionForeground": "#832161",
-		"list.focusBackground": "#DAD7E5",
-		"list.hoverBackground": "#fffaef",
+		"list.focusBackground": "#ffe1a3",
+		"list.hoverBackground": "#fffae3",
 		"list.hoverForeground": "#DA4167",
 		"list.dropBackground": "#fffae9",
 		// Scrollbar
