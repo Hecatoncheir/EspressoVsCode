@@ -49,8 +49,9 @@
 		"editorSuggestWidget.border": "#373F48",
 		"editorSuggestWidget.foreground": "#dde46c",
 		"editorCursor.foreground": "#b7d064",
-		"editor.lineHighlightBackground": "#373F4b",
-		"editor.lineHighlightBorder": "#373F4b",
+		// "editor.lineHighlightBackground": "#373F4b",
+		"editor.lineHighlightBackground": "#111721",
+		"editor.lineHighlightBorder": "#111721",
 		"editor.wordHighlightStrongBackground": "#c06a8e",
 		"editorLineNumber.foreground": "#9da3a4",
 		"editor.findMatchBackground": "#373F4b",
@@ -172,7 +173,17 @@
 		"terminal.ansiBrightGreen": "#dde46c",
 		"terminal.ansiGreen": "#B7D064",
 		"terminal.ansiBrightRed": "#ed3b69",
-		"terminal.ansiRed": "#F16950"
+		"terminal.ansiRed": "#F16950",
+		"terminal.ansiBrightYellow": "#fffae9",
+		"terminal.ansiYellow": "#ffe1a3",
+		"terminal.ansiBrightWhite": "#fff",
+		"terminal.ansiWhite": "#fff",
+		"terminal.ansiBrightBlack": "#fff",
+		"terminal.ansiBlack": "#fff",
+		"terminal.ansiBrightCyan": "#fff",
+		"terminal.ansiCyan": "#fff",
+		"terminal.ansiBrightBlue": "#fff",
+		"terminal.ansiBlue": "#fff"
 	},
 	"tokenColors": [
 		{
