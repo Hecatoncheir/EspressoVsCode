@@ -577,11 +577,8 @@
 			"name": "Dart classes names",
 			"scope": "support.class.dart",
 			"settings": {
-				// "foreground": "#677392",
-				// "foreground": "#225588",
-				// "foreground": "#c06a8f",
-				// "foreground": "#ed3b69",
-				// "fontStyle": "bold italic"
+				"foreground": "#660E7A",
+				"fontStyle": "normal"
 			}
 		},
 		{
