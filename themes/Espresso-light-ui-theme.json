@@ -577,16 +577,18 @@
 			"name": "Dart classes names",
 			"scope": "support.class.dart",
 			"settings": {
-				"foreground": "#660E7A",
-				"fontStyle": "normal"
+				"foreground": "#832161",
+				// "foreground": "#225588",
+				"fontStyle": "bold italic"
 			}
 		},
 		{
 			"name": "Dart functions",
 			"scope": "entity.name.function.dart",
 			"settings": {
-				// "foreground": "#526588",
-				"foreground": "#832161",
+				// "foreground": "#660E7A",
+				// "foreground": "#225588",
+				"foreground": "#9966b8",
 				"fontStyle": "normal"
 			}
 		},
@@ -594,8 +596,8 @@
 			"name": "Dart source",
 			"scope": "source.dart",
 			"settings": {
-				// "foreground": "#677392ff"
-				"foreground": "#225588"
+				"foreground": "#526588"
+				// "foreground": "#225588"
 			}
 		},
 		// GO
