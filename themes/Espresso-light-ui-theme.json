@@ -579,7 +579,7 @@
 			"settings": {
 				"foreground": "#832161",
 				// "foreground": "#225588",
-				"fontStyle": "bold italic"
+				"fontStyle": "italic"
 			}
 		},
 		{
