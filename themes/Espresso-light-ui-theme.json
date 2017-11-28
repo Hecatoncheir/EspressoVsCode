@@ -596,8 +596,8 @@
 			"name": "Dart source",
 			"scope": "source.dart",
 			"settings": {
-				"foreground": "#526588"
-				// "foreground": "#225588"
+				// "foreground": "#526588"
+				"foreground": "#225588"
 			}
 		},
 		// GO
