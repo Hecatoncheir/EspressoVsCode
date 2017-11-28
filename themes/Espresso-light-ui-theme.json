@@ -582,6 +582,15 @@
 			}
 		},
 		{
+			"name": "Dart functions",
+			"scope": "entity.name.function.dart",
+			"settings": {
+				// "foreground": "#526588",
+				"foreground": "#832161",
+				"fontStyle": "normal"
+			}
+		},
+		{
 			"name": "Dart source",
 			"scope": "source.dart",
 			"settings": {
