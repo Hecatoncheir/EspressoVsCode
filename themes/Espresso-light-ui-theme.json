@@ -162,6 +162,9 @@
 		"terminal.ansiGreen": "#B7D064",
 		"terminal.ansiBrightRed": "#DA4167",
 		"terminal.ansiRed": "#d2461e",
+		// Quick Picker
+		"pickerGroup.border": "#677392",
+		"pickerGroup.foreground": "#ed3b6e",
 		// Extension button
 		"extensionButton.prominentForeground": "#fffae9",
 		"extensionButton.prominentBackground": "#ed3b6e",
