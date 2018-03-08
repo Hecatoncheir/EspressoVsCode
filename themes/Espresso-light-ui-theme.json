@@ -165,11 +165,11 @@
 		// Notification center
 		"notificationCenter.border": "#ed3b6e",
 		"notificationCenterHeader.foreground": "#832161",
-		"notificationCenterHeader.background": "#fffae9",
+		"notificationCenterHeader.background": "#ffe1af",
 		"notificationToast.border": "#ed3b6e",
 		"notifications.foreground": "#ed3b6e",
-		"notifications.background": "#ffe1a2",
-		"notifications.border": "#832161",
+		"notifications.background": "#fffae9",
+		"notifications.border": "#ffe1a2",
 		"notificationLink.foreground": "#677392"
 	},
 	"tokenColors": [
