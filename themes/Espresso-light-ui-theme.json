@@ -164,6 +164,12 @@
 		"terminal.ansiRed": "#d2461e",
 		"terminalCursor.background": "#fffae9",
 		"terminalCursor.foreground": "#dde46c",
+		// Git Colors
+		"gitDecoration.modifiedResourceForeground": "#832161",
+		"gitDecoration.deletedResourceForeground": "#DA4167",
+		"gitDecoration.untrackedResourceForeground": "#91B322",
+		"gitDecoration.ignoredResourceForeground": "#152844",
+		"gitDecoration.conflictingResourceForeground": "#ed3b6e",
 		// Quick Picker
 		"pickerGroup.border": "#677392",
 		"pickerGroup.foreground": "#ed3b6e",
