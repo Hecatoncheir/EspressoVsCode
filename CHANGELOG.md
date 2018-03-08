@@ -1,4 +1,15 @@
 # Change Log
+## 1.6.8
+
+### Update
+- Update light theme
+- Update list colors
+- Update terminal cursor colors
+- Added Git Colors
+- Added Quick Picker colors
+- Added Extension button colors
+- Added Notification center colors
+
 ## 1.6.7
 
 ### Update
