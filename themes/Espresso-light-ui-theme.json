@@ -162,6 +162,8 @@
 		"terminal.ansiGreen": "#B7D064",
 		"terminal.ansiBrightRed": "#DA4167",
 		"terminal.ansiRed": "#d2461e",
+		"terminalCursor.background": "#fffae9",
+		"terminalCursor.foreground": "#dde46c",
 		// Quick Picker
 		"pickerGroup.border": "#677392",
 		"pickerGroup.foreground": "#ed3b6e",
