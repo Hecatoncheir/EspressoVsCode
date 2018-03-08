@@ -162,6 +162,10 @@
 		"terminal.ansiGreen": "#B7D064",
 		"terminal.ansiBrightRed": "#DA4167",
 		"terminal.ansiRed": "#d2461e",
+		// Extension button
+		"extensionButton.prominentForeground": "#fffae9",
+		"extensionButton.prominentBackground": "#ed3b6e",
+		"extensionButton.prominentHoverBackground": "#832161",
 		// Notification center
 		"notificationCenter.border": "#ed3b6e",
 		"notificationCenterHeader.foreground": "#832161",
