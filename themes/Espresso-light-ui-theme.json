@@ -172,7 +172,7 @@
 		"gitDecoration.ignoredResourceForeground": "#152844",
 		"gitDecoration.conflictingResourceForeground": "#ed3b6e",
 		// Quick Picker
-		"pickerGroup.border": "#677392",
+		"pickerGroup.border": "#ed3b6e",
 		"pickerGroup.foreground": "#ed3b6e",
 		// Extension button
 		"extensionButton.prominentForeground": "#fffae9",
