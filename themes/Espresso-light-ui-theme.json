@@ -15,18 +15,6 @@
 		"titleBar.activeForeground": "#2C2E40",
 		"titleBar.inactiveForeground": "#dde46c",
 		"titleBar.inactiveBackground": "#2c2e40",
-		// Notification
-		"notification.background": "#edeef4",
-		"notification.foreground": "#677392",
-		"notification.buttonBackground": "#B7D064",
-		"notification.buttonHoverBackground": "#dde46c",
-		"notification.buttonForeground": "#2C2E40",
-		"notification.infoBackground": "#ffe1a2",
-		"notification.infoForeground": "#2C2E40",
-		"notification.warningBackground": "#ffe1a2",
-		"notification.warningForeground": "#ed3b6e",
-		"notification.errorBackground": "#ed3b6e",
-		"notification.errorForeground": "#2C2E40",
 		// Panel
 		"panel.border": "#c06a82",
 		"panel.background": "#fff",
@@ -135,13 +123,13 @@
 		"statusBarItem.prominentHoverBackground": "#fffae2",
 		"statusBarItem.prominentBackground": "#fff",
 		// List
-		"list.highlightForeground": "#832161",
+		"list.highlightForeground": "#ed3b6e",
 		"list.focusForeground": "#DA4167",
 		"list.inactiveSelectionBackground": "#fff",
 		"list.inactiveSelectionForeground": "#832161",
 		"list.activeSelectionBackground": "#fff",
 		"list.activeSelectionForeground": "#832161",
-		"list.focusBackground": "#ffe1a3",
+		"list.focusBackground": "#fffae3",
 		"list.hoverBackground": "#fffae3",
 		"list.hoverForeground": "#DA4167",
 		"list.dropBackground": "#fffae9",
@@ -173,7 +161,31 @@
 		"terminal.ansiBrightGreen": "#dde46c",
 		"terminal.ansiGreen": "#B7D064",
 		"terminal.ansiBrightRed": "#DA4167",
-		"terminal.ansiRed": "#d2461e"
+		"terminal.ansiRed": "#d2461e",
+		"terminalCursor.background": "#fffae9",
+		"terminalCursor.foreground": "#dde46c",
+		// Git Colors
+		"gitDecoration.modifiedResourceForeground": "#832161",
+		"gitDecoration.deletedResourceForeground": "#DA4167",
+		"gitDecoration.untrackedResourceForeground": "#91B322",
+		"gitDecoration.ignoredResourceForeground": "#152844",
+		"gitDecoration.conflictingResourceForeground": "#ed3b6e",
+		// Quick Picker
+		"pickerGroup.border": "#677392",
+		"pickerGroup.foreground": "#ed3b6e",
+		// Extension button
+		"extensionButton.prominentForeground": "#fffae9",
+		"extensionButton.prominentBackground": "#ed3b6e",
+		"extensionButton.prominentHoverBackground": "#832161",
+		// Notification center
+		"notificationCenter.border": "#ed3b6e",
+		"notificationCenterHeader.foreground": "#832161",
+		"notificationCenterHeader.background": "#ffe1af",
+		"notificationToast.border": "#ed3b6e",
+		"notifications.foreground": "#ed3b6e",
+		"notifications.background": "#fffae9",
+		"notifications.border": "#ffe1a2",
+		"notificationLink.foreground": "#677392"
 	},
 	"tokenColors": [
 		{
@@ -577,18 +589,26 @@
 			"name": "Dart classes names",
 			"scope": "support.class.dart",
 			"settings": {
-				// "foreground": "#677392",
+				"foreground": "#832161",
 				// "foreground": "#225588",
-				// "foreground": "#c06a8f",
-				// "foreground": "#ed3b69",
-				// "fontStyle": "bold italic"
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Dart functions",
+			"scope": "entity.name.function.dart",
+			"settings": {
+				// "foreground": "#660E7A",
+				// "foreground": "#225588",
+				"foreground": "#9966b8",
+				"fontStyle": "normal"
 			}
 		},
 		{
 			"name": "Dart source",
 			"scope": "source.dart",
 			"settings": {
-				// "foreground": "#677392ff"
+				// "foreground": "#526588"
 				"foreground": "#225588"
 			}
 		},
@@ -605,6 +625,13 @@
 			"scope": "constant.other.placeholder.go",
 			"settings": {
 				"foreground": "#BBDB9B"
+			}
+		},
+		{
+			"name": "Go source",
+			"scope": "source.go",
+			"settings": {
+				"foreground": "#225588"
 			}
 		}
 	]
