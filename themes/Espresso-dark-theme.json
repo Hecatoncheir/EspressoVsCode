@@ -124,9 +124,9 @@
 		"list.inactiveSelectionForeground": "#dde46c",
 		"list.activeSelectionBackground": "#272C35",
 		"list.activeSelectionForeground": "#dde46c",
-		"list.focusBackground": "#10365D",
-		"list.hoverBackground": "#dde46c",
-		"list.hoverForeground": "#10365D",
+		"list.focusBackground": "#272C35",
+		"list.hoverBackground": "#272C35",
+		"list.hoverForeground": "#dde46c",
 		"list.dropBackground": "#dde46c",
 		// Scrollbar
 		// "scrollbarSlider.background": "rgba(221, 228, 108, 0.5)",
@@ -172,6 +172,8 @@
 		"terminal.ansiCyan": "#fff",
 		"terminal.ansiBrightBlue": "#fff",
 		"terminal.ansiBlue": "#fff",
+		"terminalCursor.background": "#111721",
+		"terminalCursor.foreground": "#dde46c",
 		// Notification center
 		"notificationCenter.border": "#fffae9",
 		"notificationCenterHeader.foreground": "#B7D064",
