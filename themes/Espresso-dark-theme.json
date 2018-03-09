@@ -38,8 +38,8 @@
 		"editorSuggestWidget.foreground": "#dde46c",
 		"editorCursor.foreground": "#b7d064",
 		// "editor.lineHighlightBackground": "#373F4b",
-		"editor.lineHighlightBackground": "#23262F",
-		"editor.lineHighlightBorder": "#23262F",
+		"editor.lineHighlightBackground": "#111721",
+		"editor.lineHighlightBorder": "#111721",
 		"editor.wordHighlightStrongBackground": "#c06a8e",
 		"editorLineNumber.foreground": "#9da3a4",
 		"editor.findMatchBackground": "#373F4b",
@@ -64,6 +64,7 @@
 		"editorGutter.modifiedBackground": "#ffe1a3",
 		"editorGutter.addedBackground": "#b7d064",
 		"editorGutter.deletedBackground": "#DA4167",
+		"editorError.foreground": "#F16950",
 		// PeekView
 		"peekView.border": "#373F4b",
 		"peekViewTitle.background": "#373F4b",
@@ -102,14 +103,14 @@
 		"activityBar.dropBackground": "#241628",
 		// Side bar
 		"sideBar.background": "#373F4B",
-		"sideBar.foreground": "#fff",
+		"sideBar.foreground": "#fffae3",
 		"sideBarTitle.foreground": "#dde46c",
 		"sideBarSectionHeader.background": "#2E353F",
 		"sideBarSectionHeader.foreground": "#dde46c",
 		// "sideBarSectionHeader.background": "#edeef4",
 		// Status bar
 		"statusBar.background": "#373F4B",
-		"statusBar.foreground": "#fff",
+		"statusBar.foreground": "#fffae3",
 		"statusBar.debuggingBackground": "#B7D064",
 		// "statusBar.noFolderBackground": "#BBDB9B",
 		"statusBar.noFolderBackground": "#373F4B",
@@ -174,6 +175,19 @@
 		"terminal.ansiBlue": "#fff",
 		"terminalCursor.background": "#111721",
 		"terminalCursor.foreground": "#dde46c",
+		// Git Colors
+		"gitDecoration.modifiedResourceForeground": "#B7D064",
+		"gitDecoration.deletedResourceForeground": "#F16950",
+		"gitDecoration.untrackedResourceForeground": "#dde46c",
+		"gitDecoration.ignoredResourceForeground": "#F4F1BB",
+		"gitDecoration.conflictingResourceForeground": "#F16950",
+		// Quick Picker
+		"pickerGroup.border": "#F4F1BB",
+		"pickerGroup.foreground": "#dde46c",
+		// Extension button
+		"extensionButton.prominentForeground": "#061626",
+		"extensionButton.prominentBackground": "#dde46c",
+		"extensionButton.prominentHoverBackground": "#B7D064",
 		// Notification center
 		"notificationCenter.border": "#fffae9",
 		"notificationCenterHeader.foreground": "#B7D064",
