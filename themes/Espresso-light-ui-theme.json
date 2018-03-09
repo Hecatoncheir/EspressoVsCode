@@ -65,6 +65,7 @@
 		"editorGutter.modifiedBackground": "#677392",
 		"editorGutter.addedBackground": "#b7d064",
 		"editorGutter.deletedBackground": "#c06a8e",
+		"editorError.foreground": "#F16950",
 		// Welcome
 		"welcomePage.buttonBackground": "#dde46c",
 		"welcomePage.buttonHoverBackground": "#B7D064",
