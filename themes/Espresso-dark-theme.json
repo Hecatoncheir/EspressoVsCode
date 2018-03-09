@@ -13,18 +13,6 @@
 		"titleBar.activeForeground": "#D9EB52",
 		"titleBar.inactiveBackground": "#dde46c",
 		"titleBar.inactiveForeground": "#373F4b",
-		// Notification
-		"notification.background": "#373F44",
-		"notification.foreground": "#fffae3",
-		"notification.buttonBackground": "#B7D064",
-		"notification.buttonHoverBackground": "#dde46c",
-		"notification.buttonForeground": "#2C2E40",
-		"notification.infoBackground": "#ffe1a2",
-		"notification.infoForeground": "#2C2E40",
-		"notification.warningBackground": "#ffe1a2",
-		"notification.warningForeground": "#ed3b6e",
-		"notification.errorBackground": "#ed3b6e",
-		"notification.errorForeground": "#2C2E40",
 		// Panel
 		"panel.border": "#373F4b",
 		"panel.background": "#373F4b",
@@ -183,7 +171,16 @@
 		"terminal.ansiBrightCyan": "#fff",
 		"terminal.ansiCyan": "#fff",
 		"terminal.ansiBrightBlue": "#fff",
-		"terminal.ansiBlue": "#fff"
+		"terminal.ansiBlue": "#fff",
+		// Notification center
+		"notificationCenter.border": "#fffae9",
+		"notificationCenterHeader.foreground": "#B7D064",
+		"notificationCenterHeader.background": "#373F4B",
+		"notificationToast.border": "#fffae9",
+		"notifications.foreground": "#061626",
+		"notifications.background": "#dde46c",
+		"notifications.border": "#fffae9",
+		"notificationLink.foreground": "#677392"
 	},
 	"tokenColors": [
 		{
