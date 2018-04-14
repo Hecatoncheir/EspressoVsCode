@@ -1,4 +1,9 @@
 # Change Log
+## 1.6.10
+
+### Update
+- Added EditorHints colors for light theme
+- Added border of select for light theme
 ## 1.6.9
 
 ### Update
