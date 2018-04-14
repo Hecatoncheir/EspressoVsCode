@@ -186,7 +186,10 @@
 		"notifications.foreground": "#ed3b6e",
 		"notifications.background": "#fffae9",
 		"notifications.border": "#ffe1a2",
-		"notificationLink.foreground": "#677392"
+		"notificationLink.foreground": "#677392",
+		// Hint
+		"editorHint.foreground": "#832161",
+		"editorHint.border": "#ffe1a2"
 	},
 	"tokenColors": [
 		{
