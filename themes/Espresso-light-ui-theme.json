@@ -94,8 +94,8 @@
 		"inputValidation.errorBorder": "#e66a18",
 		"inputValidation.warningBackground": "#FFB503",
 		"inputValidation.warningBorder": "#ffe1a2",
-		"inputValidation.infoBackground": "#677392",
-		"inputValidation.infoBorder": "#c06a8e",
+		"inputValidation.infoBackground": "#fffae2",
+		"inputValidation.infoBorder": "#dde46c",
 		// Tab
 		"tab.activeBackground": "#fff",
 		"tab.activeForeground": "#c06a8e",
