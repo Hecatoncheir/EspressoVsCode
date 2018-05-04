@@ -1,4 +1,9 @@
 # Change Log
+## 1.7.0
+
+### Update
+- Update light theme info color
+
 ## 1.6.10
 
 ### Update
