@@ -118,7 +118,7 @@
 		// Status bar
 		"statusBar.background": "#edeef4",
 		"statusBar.foreground": "#67739e",
-		"statusBar.debuggingBackground": "#F4F1BB",
+		"statusBar.debuggingBackground": "#ffe1a3",
 		// "statusBar.noFolderBackground": "#dde46c",
 		"statusBar.noFolderBackground": "#dde46c",
 		"statusBarItem.hoverBackground": "#fffae2",
