@@ -1,6 +1,6 @@
 # Espresso theme
 > A [theme](https://github.com/Rasarts/EspressoVsCode) for [Visual Studio Code](http://code.visualstudio.com).
-<br> Used font: [Cousine](https://fonts.google.com/specimen/Cousine)
+<br> Used font: [Cousine](https://fonts.google.com/specimen/Cousine) or [IBM Plex](https://github.com/IBM/plex)
 ---
 
 > Light UI
