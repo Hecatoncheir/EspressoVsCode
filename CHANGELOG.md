@@ -1,8 +1,13 @@
 # Change Log
+## 1.7.2
+
+### Update
+- Update light theme colors for scrollbar
+
 ## 1.7.1
 
 ### Update
-- Update dark theme transparency for scroll bar
+- Update dark theme transparency for scrollbar
 
 ## 1.7.0
 
