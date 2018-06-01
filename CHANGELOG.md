@@ -1,4 +1,9 @@
 # Change Log
+## 1.7.3
+
+### Update
+- Update scrollbarSlider.activeBackground color.
+
 ## 1.7.2
 
 ### Update
