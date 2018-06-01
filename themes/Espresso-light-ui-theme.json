@@ -137,7 +137,7 @@
 		"list.dropBackground": "#fffae9",
 		// Scrollbar
 		"scrollbarSlider.background": "#B7D06f99",
-		"scrollbarSlider.activeBackground": "#ffe1a399",
+		"scrollbarSlider.activeBackground": "#ed3b6e99",
 		"scrollbarSlider.hoverBackground": "#dde46c99",
 		"scrollbar.shadow": "#edeef4",
 		// Diff
