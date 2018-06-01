@@ -57,7 +57,6 @@
 		"editor.hoverHighlightBackground": "#ffe1af",
 		"editor.findRangeHighlightBackground": "#c06a8e",
 		"editor.rangeHighlightBackground": "#ffe1af",
-		"editor.wordHighlightBackground": "#ffe1af",
 		"editorLink.activeForeground": "#c06a8e",
 		"editorRuler.foreground": "#dde46c",
 		"editorCodeLens.foreground": "#dde46c",
@@ -118,7 +117,7 @@
 		// Status bar
 		"statusBar.background": "#edeef4",
 		"statusBar.foreground": "#67739e",
-		"statusBar.debuggingBackground": "#F4F1BB",
+		"statusBar.debuggingBackground": "#ffe1a3",
 		// "statusBar.noFolderBackground": "#dde46c",
 		"statusBar.noFolderBackground": "#dde46c",
 		"statusBarItem.hoverBackground": "#fffae2",
