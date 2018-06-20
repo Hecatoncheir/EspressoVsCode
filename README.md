@@ -3,6 +3,9 @@
 <br> Used font: [Cousine](https://fonts.google.com/specimen/Cousine) or [IBM Plex](https://github.com/IBM/plex)
 ---
 
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/vitaliy.espresso.svg?style=flat-square)](vitaliy.espresso) [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/r/vitaliy.espresso.svg?style=flat-square)](vitaliy.espresso)
+
+
 > Light UI
 
 ![welcome](https://raw.githubusercontent.com/Rasarts/EspressoVsCode/master/preview/preview_light_ui_welcome.png)
