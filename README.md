@@ -10,10 +10,6 @@
 
 ![welcome](https://raw.githubusercontent.com/Rasarts/EspressoVsCode/master/preview/preview_light_ui_welcome.png)
 
-> Light theme
-
-![light](https://raw.githubusercontent.com/Rasarts/EspressoVsCode/master/preview/preview_light_ui.png)
-
 > Dark UI
 
 ![dark](https://raw.githubusercontent.com/Rasarts/EspressoVsCode/master/preview/preview_dark.png)
