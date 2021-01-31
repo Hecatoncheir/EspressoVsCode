@@ -2,13 +2,13 @@
     "name": "espresso",
     "displayName": "Espresso theme",
     "description": "Espresso light and dark themes for Visual Studio Code",
-    "version": "1.7.3",
+    "version": "1.7.4",
     "publisher": "vitaliy",
     "engines": {
         "vscode": "^1.12.0"
     },
     "maintainers": [
-        "Vostrikov Vitaliy <rasart.pro@gmail.com>"
+        "Vostrikov Vitaliy <vostrikov.vitaliy.mikhailovich@gmail.com>"
     ],
     "categories": [
         "Themes"
@@ -31,11 +31,6 @@
                 "label": "Espresso Dark UI",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Espresso-dark-ui-theme.json"
-            },
-            {
-                "label": "Espresso Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Espresso-dark-theme.json"
             }
         ]
     },
