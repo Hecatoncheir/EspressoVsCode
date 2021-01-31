@@ -2,9 +2,9 @@
 	"name": "Espresso light",
 	"colors": {
 		"foreground": "#225588",
-		"focusBorder": "#ed3b69",
+		"focusBorder": "#edeef4",
 		"progressBar.background": "#2C2E40",
-		"widget.shadow": "#C1C0C4",
+		"widget.shadow": "#C1C0C400",
 		"errorForeground": "#d2461e",
 		// Badge
 		"badge.background": "#dde46c",
@@ -24,7 +24,6 @@
 		"menubar.selectionBackground": "#fffae2",
 		"menubar.selectionForeground": "#c06a82",
 		"menu.selectionBackground": "#fffae2",
-		"menubar.selectionForeground": "#c06a82",
 		// Editor
 		"editor.selectionHighlightBorder": "#ed3b6e",
 		"editor.selectionHighlightBackground": "#ffe1af",
@@ -116,14 +115,21 @@
 		"sideBarSectionHeader.background": "#edeef4",
 		"sideBarSectionHeader.foreground": "#DA4167",
 		// Status bar
+		"statusBar.debuggingBackground": "#152844",
+		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.noFolderBackground": "#dde46c",
+		"statusBar.noFolderForeground": "#152844",
 		"statusBar.background": "#edeef4",
 		"statusBar.foreground": "#67739e",
-		"statusBar.debuggingBackground": "#ffe1a3",
-		"statusBar.noFolderBackground": "#dde46c",
 		"statusBarItem.hoverBackground": "#fffae2",
 		"statusBarItem.activeBackground": "#ffe1a3",
 		"statusBarItem.prominentHoverBackground": "#fffae2",
-		"statusBarItem.prominentBackground": "#fff",
+		"statusBarItem.prominentBackground": "#ffffff",
+		"statusBarItem.prominentForeground": "#832161",
+		"statusBarItem.remoteBackground": "#dde46c",
+		"statusBarItem.remoteForeground": "#152844",
+		"statusBarItem.errorBackground": "#ffffff",
+		"statusBarItem.errorForeground": "#ed3b6e",
 		// List
 		"list.highlightForeground": "#ed3b6e",
 		"list.focusForeground": "#DA4167",
@@ -135,11 +141,12 @@
 		"list.hoverBackground": "#fffae3",
 		"list.hoverForeground": "#DA4167",
 		"list.dropBackground": "#fffae9",
+		"listFilterWidget.background": "#DA4167",
 		// Scrollbar
 		"scrollbarSlider.background": "#B7D06f99",
 		"scrollbarSlider.activeBackground": "#ed3b6e99",
 		"scrollbarSlider.hoverBackground": "#dde46c99",
-		"scrollbar.shadow": "#edeef4",
+		"scrollbar.shadow": "#edeef400",
 		// Diff
 		"diffEditor.insertedTextBorder": "#B7D06f",
 		"diffEditor.removedTextBackground": "#edeef9",
@@ -190,7 +197,9 @@
 		"notificationLink.foreground": "#677392",
 		// Hint
 		"editorHint.foreground": "#832161",
-		"editorHint.border": "#ffe1a2"
+		"editorHint.border": "#ffe1a2",
+		// Breadcrumbs colors
+		"breadcrumb.focusForeground": "#ed3b6e",
 	},
 	"tokenColors": [
 		{
@@ -198,7 +207,6 @@
 			"scope": "string.quoted",
 			"settings": {
 				"background": "#fffae3",
-				// "foreground": "#e66a18"
 				"foreground": "#d2461e"
 			}
 		},
