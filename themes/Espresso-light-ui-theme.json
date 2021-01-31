@@ -2,7 +2,6 @@
 	"name": "Espresso light",
 	"colors": {
 		"foreground": "#225588",
-		// "foreground": "#677392",
 		"focusBorder": "#ed3b69",
 		"progressBar.background": "#2C2E40",
 		"widget.shadow": "#C1C0C4",
@@ -21,6 +20,11 @@
 		"panelTitle.inactiveForeground": "#677392",
 		"panelTitle.activeForeground": "#ed3b6e",
 		"panelTitle.activeBorder": "#ed3b6e",
+		// Menu bar
+		"menubar.selectionBackground": "#fffae2",
+		"menubar.selectionForeground": "#c06a82",
+		"menu.selectionBackground": "#fffae2",
+		"menubar.selectionForeground": "#c06a82",
 		// Editor
 		"editor.selectionHighlightBorder": "#ed3b6e",
 		"editor.selectionHighlightBackground": "#ffe1af",
@@ -30,7 +34,6 @@
 		"editorGroup.background": "#fffae2",
 		"editorGroupHeader.noTabsBackground": "#edeef4",
 		"editorGroupHeader.tabsBackground": "#edeef4",
-		// "editorGroup.dropBackground": "#fff",
 		"editor.foreground": "#677392",
 		"editor.background": "#fff",
 		"editorWhitespace.foreground": "#67739e",
@@ -111,14 +114,11 @@
 		"sideBar.background": "#edeef4",
 		"sideBarTitle.foreground": "#832161",
 		"sideBarSectionHeader.background": "#edeef4",
-		// "sideBarSectionHeader.background": "#D9D0DE",
-		// "sideBarSectionHeader.background": "#D9DAE0",
 		"sideBarSectionHeader.foreground": "#DA4167",
 		// Status bar
 		"statusBar.background": "#edeef4",
 		"statusBar.foreground": "#67739e",
 		"statusBar.debuggingBackground": "#ffe1a3",
-		// "statusBar.noFolderBackground": "#dde46c",
 		"statusBar.noFolderBackground": "#dde46c",
 		"statusBarItem.hoverBackground": "#fffae2",
 		"statusBarItem.activeBackground": "#ffe1a3",
@@ -534,7 +534,6 @@
 			"name": "HTML element name",
 			"scope": "entity.name.tag.other.html",
 			"settings": {
-				// "foreground": "#db3516"
 				"foreground": "#c06a8f"
 			}
 		},
@@ -542,7 +541,6 @@
 			"name": "HTML tag name",
 			"scope": "entity.name.tag.block.any.html",
 			"settings": {
-				// "foreground": "#db3518"
 				"foreground": "#c06a8f"
 			}
 		},
@@ -595,7 +593,6 @@
 			"scope": "support.class.dart",
 			"settings": {
 				"foreground": "#832161",
-				// "foreground": "#225588",
 				"fontStyle": "italic"
 			}
 		},
@@ -603,8 +600,8 @@
 			"name": "Dart functions",
 			"scope": "entity.name.function.dart",
 			"settings": {
-				// "foreground": "#660E7A",
-				// "foreground": "#225588",
+				"foreground": "#660E7A",
+				"foreground": "#225588",
 				"foreground": "#9966b8",
 				"fontStyle": "normal"
 			}
@@ -613,7 +610,6 @@
 			"name": "Dart source",
 			"scope": "source.dart",
 			"settings": {
-				// "foreground": "#526588"
 				"foreground": "#225588"
 			}
 		},
