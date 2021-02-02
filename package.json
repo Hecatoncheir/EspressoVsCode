@@ -2,7 +2,7 @@
     "name": "espresso",
     "displayName": "Espresso theme",
     "description": "Espresso light and dark themes for Visual Studio Code",
-    "version": "1.7.5",
+    "version": "1.7.6",
     "publisher": "vitaliy",
     "engines": {
         "vscode": "^1.12.0"
