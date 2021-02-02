@@ -200,6 +200,9 @@
 		"editorHint.border": "#ffe1a2",
 		// Breadcrumbs colors
 		"breadcrumb.focusForeground": "#ed3b6e",
+		// Lightbulb
+		"editorLightBulb.foreground": "#FFB503",
+		"editorLightBulbAutoFix.foreground": "#FFB503"
 	},
 	"tokenColors": [
 		{
