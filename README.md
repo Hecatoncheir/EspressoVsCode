@@ -1,6 +1,6 @@
 # Espresso theme
 > A [theme](https://github.com/Rasarts/EspressoVsCode) for [Visual Studio Code](http://code.visualstudio.com).
-<br> Used font: [Cousine](https://fonts.google.com/specimen/Cousine) or [IBM Plex](https://github.com/IBM/plex) || [JetBrainsMono]https://www.jetbrains.com/lp/mono/)
+<br> Used font: [Cousine](https://fonts.google.com/specimen/Cousine) or [IBM Plex](https://github.com/IBM/plex) || [JetBrainsMono](https://www.jetbrains.com/lp/mono/)
 ---
 
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/vitaliy.espresso.svg?style=flat-square)](vitaliy.espresso) [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/r/vitaliy.espresso.svg?style=flat-square)](vitaliy.espresso)
