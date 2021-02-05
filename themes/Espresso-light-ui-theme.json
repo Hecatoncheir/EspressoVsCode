@@ -52,10 +52,10 @@
 		"editorWidget.background": "#fffae2",
 		"editorHoverWidget.background": "#ffe1af",
 		"editorHoverWidget.border": "#c06a8e",
-		"editorMarkerNavigation.background": "#c06a8e",
 		"editorIndentGuide.background": "#edeefc",
-		"editorMarkerNavigationWarning.background": "#c06a8e",
-		"editorMarkerNavigationError.background": "#e66a12",
+		"editorMarkerNavigation.background": "#fffae2",
+		"editorMarkerNavigationWarning.background": "#edeefc",
+		"editorMarkerNavigationError.background": "#ed3b6e",
 		"editor.hoverHighlightBackground": "#ffe1af",
 		"editor.findRangeHighlightBackground": "#c06a8e",
 		"editor.rangeHighlightBackground": "#ffe1af",
@@ -180,8 +180,11 @@
 		"gitDecoration.ignoredResourceForeground": "#152844",
 		"gitDecoration.conflictingResourceForeground": "#ed3b6e",
 		// Quick Picker
-		"pickerGroup.border": "#ed3b6e",
-		"pickerGroup.foreground": "#ed3b6e",
+		// "pickerGroup.border": "#fffae9",
+		// "pickerGroup.foreground": "#fffae9",
+		// "quickInput.background": "#fffae9",
+		// "quickInput.foreground": "#fffae9",
+		// "quickInputTitle.background": "#fffae9",
 		// Extension button
 		"extensionButton.prominentForeground": "#fffae9",
 		"extensionButton.prominentBackground": "#ed3b6e",
@@ -206,7 +209,7 @@
 		"breadcrumbPicker.background": "#fffae9",
 		// Lightbulb
 		"editorLightBulb.foreground": "#FFB503",
-		"editorLightBulbAutoFix.foreground": "#FFB503"
+		"editorLightBulbAutoFix.foreground": "#FFB503",
 	},
 	"tokenColors": [
 		{
