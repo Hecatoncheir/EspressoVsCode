@@ -54,7 +54,7 @@
 		"editorHoverWidget.border": "#c06a8e",
 		"editorIndentGuide.background": "#edeefc",
 		"editorMarkerNavigation.background": "#fffae2",
-		"editorMarkerNavigationWarning.background": "#edeefc",
+		"editorMarkerNavigationWarning.background": "#A8AEC7",
 		"editorMarkerNavigationError.background": "#ed3b6e",
 		"editor.hoverHighlightBackground": "#ffe1af",
 		"editor.findRangeHighlightBackground": "#c06a8e",
