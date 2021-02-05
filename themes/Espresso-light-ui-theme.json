@@ -199,7 +199,11 @@
 		"editorHint.foreground": "#832161",
 		"editorHint.border": "#ffe1a2",
 		// Breadcrumbs colors
+		// "breadcrumb.foreground": "",
+		// "breadcrumb.background": "",
 		"breadcrumb.focusForeground": "#ed3b6e",
+		"breadcrumb.activeSelectionForeground": "#832161",
+		"breadcrumbPicker.background": "#fffae9",
 		// Lightbulb
 		"editorLightBulb.foreground": "#FFB503",
 		"editorLightBulbAutoFix.foreground": "#FFB503"
