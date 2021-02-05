@@ -110,9 +110,9 @@
 		"activityBarBadge.foreground": "#fff",
 		"activityBar.dropBackground": "#edeef4",
 		// Side bar
-		"sideBar.background": "#edeef4",
+		"sideBar.background": "#E6E7EF",
 		"sideBarTitle.foreground": "#832161",
-		"sideBarSectionHeader.background": "#E6E7EF",
+		"sideBarSectionHeader.background": "#edeef4",
 		"sideBarSectionHeader.foreground": "#152844",
 		// Status bar
 		"statusBar.debuggingBackground": "#152844",
