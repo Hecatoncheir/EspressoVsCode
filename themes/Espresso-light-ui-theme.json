@@ -112,8 +112,8 @@
 		// Side bar
 		"sideBar.background": "#edeef4",
 		"sideBarTitle.foreground": "#832161",
-		"sideBarSectionHeader.background": "#edeef4",
-		"sideBarSectionHeader.foreground": "#DA4167",
+		"sideBarSectionHeader.background": "#E6E7EF",
+		"sideBarSectionHeader.foreground": "#152844",
 		// Status bar
 		"statusBar.debuggingBackground": "#152844",
 		"statusBar.debuggingForeground": "#ffffff",
@@ -203,7 +203,7 @@
 		"editorHint.border": "#ffe1a2",
 		// Breadcrumbs colors
 		// "breadcrumb.foreground": "",
-		// "breadcrumb.background": "",
+		// "breadcrumb.background": "#E6E7EF",
 		"breadcrumb.focusForeground": "#ed3b6e",
 		"breadcrumb.activeSelectionForeground": "#832161",
 		"breadcrumbPicker.background": "#fffae9",
