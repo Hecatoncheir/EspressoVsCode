@@ -31,7 +31,7 @@
 		"editor.wordHighlightBackground": "#ffe1af",
 		"editorGroup.border": "#c06a8e",
 		"editorGroup.background": "#fffae2",
-		"editorGroupHeader.noTabsBackground": "#edeef4",
+		"editorGroupHeader.noTabsBackground": "#ffffff",
 		"editorGroupHeader.tabsBackground": "#edeef4",
 		"editor.foreground": "#677392",
 		"editor.background": "#fff",
