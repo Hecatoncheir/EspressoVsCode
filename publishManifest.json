@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/vsix-publish",
+    "categories": [
+        "Themes"
+    ],
+    "identity": {
+        "internalName": "espresso"
+    },
+    "overview": "README.md",
+    "priceCategory": "free",
+    "publisher": "0a611227-8d83-4b6f-b203-2efa82161d6a",
+    "private": false,
+    "qna": true,
+    "repo": "https://github.com/Hecatoncheir/EspressoVsCode"
+}

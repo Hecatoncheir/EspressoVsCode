@@ -1,0 +1,15 @@
+on: [push]
+
+jobs:
+  publish:
+    runs-on: windows-latest
+    name: Publish to marketplace
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Publish extension to Marketplace
+        uses: cezarypiatek/VsixPublisherAction@1.0
+        with:
+          extension-file: build/release.vsix
+          publish-manifest-file: publishManifest.json
+          personal-access-code: ${{ secrets.TOKEN }}
